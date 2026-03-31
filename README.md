@@ -20,5 +20,6 @@
   to authenticate. I currently do not have a paid plan. I documented this honestly 
   rather than skipping the step, as the task instructions encouraged transparency 
   about obstacles faced.
-- **Git/GitHub experience**: First time using GitHub — learned the process through 
-  YouTube tutorials and GitHub's official documentation.
+- **Cursor basics**: Watched some YouTube videos to learn how to use cursor and applied. 
+- **Git/GitHub experience**: First time using GitHub — learned the process through YouTube tutorials and GitHub's official documentation.
+- **Repository creation**: Utilized Perplexity AI to learn creating respository step-by-step.
