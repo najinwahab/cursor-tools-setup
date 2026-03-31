@@ -1,4 +1,4 @@
-# Cursor IDE Setup — Portfolio Task for 100Hires
+# Setting up Cursor IDE with AI agent extensions: Claude Code and Codex
 
 ## Tools Installed
 - Cursor IDE (downloaded from cursor.com)
