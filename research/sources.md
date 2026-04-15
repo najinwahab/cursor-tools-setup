@@ -18,7 +18,7 @@ not just bloggers or commentators.
 ---
 
 ## 2. Lily Ray
-- **Role**: VP of SEO Strategy, Amsive
+- **Role**: VP of SEO Strategy, Amsive, Founder of Algorythmic
 - **LinkedIn**: https://www.linkedin.com/in/lily-ray-44755615
 - **YouTube**: https://www.youtube.com/@LilyRaySEO
 - **Why chosen**: Leads research on Google AI Overviews and their impact on
