@@ -9,7 +9,7 @@ not just bloggers or commentators.
 ## 1. Ross Simmonds
 - **Role**: Founder, Foundation & Distribution.ai
 - **LinkedIn**: https://www.linkedin.com/in/rosssimmonds
-- **YouTube**: https://www.youtube.com/@RossSimmonds
+- **YouTube**: https://www.youtube.com/@RossSimmondsTV
 - **Why chosen**: Pioneered GEO (Generative Engine Optimization) frameworks;
   works with enterprise clients like Canva and Shopify on AI content strategy.
 - **Content collected**: LinkedIn posts, YouTube videos
@@ -20,7 +20,7 @@ not just bloggers or commentators.
 ## 2. Lily Ray
 - **Role**: VP of SEO Strategy, Amsive, Founder of Algorythmic
 - **LinkedIn**: https://www.linkedin.com/in/lily-ray-44755615
-- **YouTube**: https://www.youtube.com/@LilyRaySEO
+- **YouTube**: https://www.youtube.com/@lilyray
 - **Why chosen**: Leads research on Google AI Overviews and their impact on
   organic traffic. 42,000+ LinkedIn followers. Frequently cited in SEO press.
 - **Content collected**: LinkedIn posts
@@ -42,7 +42,6 @@ not just bloggers or commentators.
 ## 4. Kevin Indig
 - **Role**: Independent Growth Advisor
 - **LinkedIn**: https://www.linkedin.com/in/kevinindig
-- **YouTube**: https://www.youtube.com/@KevinIndig
 - **Why chosen**: Previously advised Shopify, Reddit, and Meta on AI search
   strategy. Publishes data-backed research on organic growth and AI content.
 - **Content collected**: LinkedIn posts
@@ -50,9 +49,10 @@ not just bloggers or commentators.
 
 ---
 
-## 5. Koray Tugberk Gubur
+## 5. Koray Tuğberk GÜBÜR
 - **Role**: CEO, Holistic SEO & Digital
 - **LinkedIn**: https://www.linkedin.com/in/koray-tugberk-gubur
+-**YouTube**: http://www.youtube.com/@TopicalAuthority
 - **Why chosen**: Founded the Topical Authority methodology now widely adopted
   in AI content workflows. Has trained 8,000+ SEO professionals globally.
 - **Content collected**: LinkedIn posts
@@ -83,22 +83,23 @@ not just bloggers or commentators.
 
 ---
 
-## 8. Chima Mmeje
-- **Role**: Senior Content Marketing Manager, Moz
-- **LinkedIn**: https://www.linkedin.com/in/chima-mmeje
-- **Why chosen**: Expert in Entity SEO and AI-assisted content workflows.
-  Known for practical, implementation-focused content rather than theory.
+## 8. Britney Muller
+- **Role**: Founder, Orange Labs | Former Senior SEO Scientist, Moz
+- **LinkedIn**: https://www.linkedin.com/in/britneymuller
+- **Why chosen**: Uniquely bridges SEO and machine learning — previously worked
+  at Hugging Face and Moz. Now runs Orange Labs, an AI community for marketers.
+  One of the few experts who understands both the technical AI and content sides.
 - **Content collected**: LinkedIn posts
 - **Date collected**: April 2026
 
 ---
 
-## 9. Cyrus Shepard
-- **Role**: Founder, Zyppy SEO
-- **LinkedIn**: https://www.linkedin.com/in/cyrusshepard
-- **YouTube**: https://www.youtube.com/@CyrusShepard
-- **Why chosen**: Runs controlled SEO experiments and publishes transparent
-  findings. One of the most data-driven independent voices in AI SEO.
+## 9. Mike King
+- **Role**: Founder & CEO, iPullRank
+- **LinkedIn**: https://www.linkedin.com/in/michaelkingphilly
+- **Why chosen**: Two-time Search Marketer of the Year, named in USA Today's
+  Top 10 SEO experts. Advisor to Bain & Company. Author of The Science of SEO.
+  Highly respected voice on technical SEO and AI-driven content strategy.
 - **Content collected**: LinkedIn posts
 - **Date collected**: April 2026
 
