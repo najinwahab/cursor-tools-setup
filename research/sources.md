@@ -31,8 +31,8 @@ not just bloggers or commentators.
 ## 3. Aleyda Solis
 - **Role**: Founder, Orainti (International SEO Consultancy)
 - **LinkedIn**: https://www.linkedin.com/in/aleyda
-- **YouTube**: https://www.youtube.com/@AleydaSolis
-- **Why chosen**: 109,000+ LinkedIn followers. Runs the SEOFOMO newsletter and
+- **YouTube**: http://www.youtube.com/@CrawlingMondaysbyAleyda
+- **Why chosen**: 110,000+ LinkedIn followers. Runs the SEOFOMO newsletter and
   "Crawling Mondays" YouTube series. One of the most active voices on AI search.
 - **Content collected**: LinkedIn posts, YouTube videos 
 - **Date collected**: April 2026
@@ -53,9 +53,8 @@ not just bloggers or commentators.
 - **Role**: CEO, Holistic SEO & Digital
 - **LinkedIn**: https://www.linkedin.com/in/koray-tugberk-gubur
 - **YouTube**: http://www.youtube.com/@TopicalAuthority
-- **Why chosen**: Founded the Topical Authority methodology now widely adopted
-  in AI content workflows. Has trained 8,000+ SEO professionals globally.
-- **Content collected**: LinkedIn posts
+- **Why chosen**: Founder of Holistic SEO & Digital and the Topical Authority methodology now widely adopted
+  in AI content workflows. Expert in semantic SEO and content networks.
 - **Date collected**: April 2026
 
 ---
@@ -75,7 +74,7 @@ not just bloggers or commentators.
 - **Role**: CEO, Kalicube
 - **LinkedIn**: https://www.linkedin.com/in/jasonmbarnard
 - **YouTube**: https://www.youtube.com/@jasonmbarnard
-- **Why chosen**: Coined the term "Answer Engine Optimization" (AEO) in 2017 —
+- **Why chosen**: Coined the term "Answer Engine Optimization" (AEO) in 2018 —
   years before it became mainstream. Specialises in how AI systems understand
   and represent brands in generated content.
 - **Content collected**: LinkedIn posts, YouTube videos
@@ -84,7 +83,7 @@ not just bloggers or commentators.
 ---
 
 ## 8. Britney Muller
-- **Role**: Founder, Orange Labs | Former Senior SEO Scientist, Moz
+- **Role**: Founder, Orange Labs, Former Senior SEO Scientist, Moz
 - **LinkedIn**: https://www.linkedin.com/in/britneymuller
 - **Why chosen**: Uniquely bridges SEO and machine learning — previously worked
   at Hugging Face and Moz. Now runs Orange Labs, an AI community for marketers.
@@ -106,7 +105,7 @@ not just bloggers or commentators.
 ---
 
 ## 10. Brian Dean
-- **Role**: Founder, Backlinko (acquired by Semrush)
+- **Role**: Founder, Backlinko and Exploding Topics (Both acquired by Semrush)
 - **LinkedIn**: https://www.linkedin.com/in/brianedean
 - **YouTube**: http://www.youtube.com/@BrianDean
 - **Why chosen**: Built the gold standard for SEO content guides. His Backlinko
