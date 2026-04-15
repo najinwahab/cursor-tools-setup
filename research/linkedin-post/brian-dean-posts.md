@@ -3,7 +3,7 @@
 *Note: Brian Dean has been largely inactive on LinkedIn since 2024. His primary content output is via YouTube (Backlinko channel). See /youtube-transcripts/ for his recent content.*
 
 ## Post 1
-[Most people are missing how AI is ACTUALLY changing SEO.
+Most people are missing how AI is ACTUALLY changing SEO.
 
 Back in the day, SEO was all about things like:
 
@@ -36,6 +36,5 @@ Well, look at how search behavior and the SERPs themselves have changed:
 In short:
 
 SEO is almost like social media now… where it’s all about getting eyeballs to your site (with the occasional high-intent click).
-]
 **Date**: April 2026
-**URL**: [https://www.linkedin.com/posts/brianedean_most-people-are-missing-how-ai-is-actually-activity-7446839485004161024-ot6g?utm_source=share&utm_medium=member_desktop&rcm=ACoAABs1-dcB_6fm3G6Dvs4vvpo9Y1cYzvFC7aY]
+**URL**: https://www.linkedin.com/posts/brianedean_most-people-are-missing-how-ai-is-actually-activity-7446839485004161024-ot6g?utm_source=share&utm_medium=member_desktop&rcm=ACoAABs1-dcB_6fm3G6Dvs4vvpo9Y1cYzvFC7aY

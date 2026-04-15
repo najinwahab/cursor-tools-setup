@@ -1,7 +1,7 @@
 # Jason Bernard — LinkedIn Posts
 
 ## Post 1
-[You’re publishing content. Optimizing metadata. Building links.
+You’re publishing content. Optimizing metadata. Building links.
 And AI still gets you wrong. Why? Annotation. The single gate that decides if your content even has a chance.
 
 I once got two of Barry Schwartz’s articles attributed to me, just because the bot misread my author bio. Imagine if that were your product, your offer, your price. One mislabel, and your content never makes it to the top.
@@ -18,14 +18,14 @@ Content alone won’t win. Being understood correctly from the start will.
 
 Search Engine Land Kalicube® 
 
-#AI #SEO #DigitalMarketing #ContentStrategy #Annotation #MarketingStrategy #BrandVisibility #AIAssistiveEngines]
+#AI #SEO #DigitalMarketing #ContentStrategy #Annotation #MarketingStrategy #BrandVisibility #AIAssistiveEngines
 **Date**: April 2026
-**URL**: [https://www.linkedin.com/posts/jasonmbarnard_ai-seo-digitalmarketing-activity-7447584371357765632-C_rP?utm_source=share&utm_medium=member_desktop&rcm=ACoAABs1-dcB_6fm3G6Dvs4vvpo9Y1cYzvFC7aY]
+**URL**: https://www.linkedin.com/posts/jasonmbarnard_ai-seo-digitalmarketing-activity-7447584371357765632-C_rP?utm_source=share&utm_medium=member_desktop&rcm=ACoAABs1-dcB_6fm3G6Dvs4vvpo9Y1cYzvFC7aY
 
 ---
 
 ## Post 2
-[You’re not invisible to AI. You’re just not trusted enough to be recommended.
+You’re not invisible to AI. You’re just not trusted enough to be recommended.
 Read that again.
 
 If AI says: “Claims to…” “According to their website…” “May be worth considering…”
@@ -47,14 +47,14 @@ You don’t need more content. You need more proof.
 
 Rolling Stone Culture Council Kalicube® 
 
-#AISEO #PersonalBranding #Entrepreneurship #DigitalAuthority #Kalicube #AIMarketing]
+#AISEO #PersonalBranding #Entrepreneurship #DigitalAuthority #Kalicube #AIMarketing
 **Date**: April 2026
-**URL**: [https://www.linkedin.com/posts/jasonmbarnard_aiseo-personalbranding-entrepreneurship-activity-7447562922559569920-wre1?utm_source=share&utm_medium=member_desktop&rcm=ACoAABs1-dcB_6fm3G6Dvs4vvpo9Y1cYzvFC7aY]
+**URL**: https://www.linkedin.com/posts/jasonmbarnard_aiseo-personalbranding-entrepreneurship-activity-7447562922559569920-wre1?utm_source=share&utm_medium=member_desktop&rcm=ACoAABs1-dcB_6fm3G6Dvs4vvpo9Y1cYzvFC7aY
 
 ---
 
 ## Post 3
-[“Publish and wait” was a complete strategy for 20 years.
+“Publish and wait” was a complete strategy for 20 years.
 Today, it’s just one of five entry modes. And it’s the weakest.
 AI systems don’t just crawl. They ingest content through multiple pathways: feeds, push protocols, and direct agent access.
 
@@ -78,6 +78,6 @@ It’s about eligibility for revenue.
 
 Search Engine Land Kalicube® 
 
-#AI #DigitalTransformation #RevenueStrategy #ContentStrategy #AIAuthority #EntityOptimization #Crawling #FiveEntryModes #SEO]
+#AI #DigitalTransformation #RevenueStrategy #ContentStrategy #AIAuthority #EntityOptimization #Crawling #FiveEntryModes #SEO
 **Date**: April 2026
-**URL**: [https://www.linkedin.com/posts/jasonmbarnard_ai-digitaltransformation-revenuestrategy-activity-7445057067838623744-seF-?utm_source=share&utm_medium=member_desktop&rcm=ACoAABs1-dcB_6fm3G6Dvs4vvpo9Y1cYzvFC7aY]
+**URL**: https://www.linkedin.com/posts/jasonmbarnard_ai-digitaltransformation-revenuestrategy-activity-7445057067838623744-seF-?utm_source=share&utm_medium=member_desktop&rcm=ACoAABs1-dcB_6fm3G6Dvs4vvpo9Y1cYzvFC7aY

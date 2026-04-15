@@ -1,7 +1,7 @@
 # Britney Muller — LinkedIn Posts
 
 ## Post 1
-[The AI Search Gold Rush: What's Real vs What's Snake Oil? 🐍
+The AI Search Gold Rush: What's Real vs What's Snake Oil? 🐍
 
 Mia Sato at The Verge wrote one of the most thorough pieces I've seen on what's actually happening in SEO + AI Search right now. Grateful to have been included. Most coverage hypes up AI or dismisses it. This stays neutral while going deep into research + educating the audience:
 
@@ -17,14 +17,14 @@ Mia Sato at The Verge wrote one of the most thorough pieces I've seen on what's 
 
 The full piece is worth your time; Mia also digs into what's actually working for retailers tracking AI visibility, and the OpenAI ads backlash section is wild!! 
 
-Link in comments 👇]
+Link in comments 👇
 **Date**: April 2026
-**URL**: [https://www.linkedin.com/posts/britneymuller_the-ai-search-gold-rush-whats-real-vs-whats-activity-7449472539904458752-TV7-?utm_source=share&utm_medium=member_desktop&rcm=ACoAABs1-dcB_6fm3G6Dvs4vvpo9Y1cYzvFC7aY]
+**URL**: https://www.linkedin.com/posts/britneymuller_the-ai-search-gold-rush-whats-real-vs-whats-activity-7449472539904458752-TV7-?utm_source=share&utm_medium=member_desktop&rcm=ACoAABs1-dcB_6fm3G6Dvs4vvpo9Y1cYzvFC7aY
 
 ---
 
 ## Post 2
-[Marketers Succeeding With AI Do These 6 Things [+Free Printable Cheatsheet]:
+Marketers Succeeding With AI Do These 6 Things [+Free Printable Cheatsheet]:
 
 Rule #0: You start with the PROBLEM, not the tech.
 If you can't clearly + simply name your task in one sentence, you aren't ready yet.
@@ -76,12 +76,12 @@ Put all of this (plus 5 more tips, tool recs, etc.) into a free printable 2-page
 
 P.S. My top-rated Actionable AI for Marketers Course starts in 7 days! Small cohort, hands-on, work on YOUR own real-world project. "APR25" for 25% off 🚀]
 **Date**: April 2026
-**URL**: [https://www.linkedin.com/posts/britneymuller_ai-cheatsheet-for-marketers-2026-orange-labs-activity-7444766189719052288-2DND?utm_source=share&utm_medium=member_desktop&rcm=ACoAABs1-dcB_6fm3G6Dvs4vvpo9Y1cYzvFC7aY]
+**URL**: https://www.linkedin.com/posts/britneymuller_ai-cheatsheet-for-marketers-2026-orange-labs-activity-7444766189719052288-2DND?utm_source=share&utm_medium=member_desktop&rcm=ACoAABs1-dcB_6fm3G6Dvs4vvpo9Y1cYzvFC7aY
 
 ---
 
 ## Post 3
-["LLMs favor content that does X" is not a thing!
+"LLMs favor content that does X" is not a thing!
 
 LLMs don't favor anything. They're not information retrieval systems; they're next-token predictors. They guess the most statistically likely response based on patterns in training data.
 
@@ -91,6 +91,6 @@ During training, LLMs process text from across the web, but they don't log URLs,
 
 Search engines do the crawling, indexing, and retrieval. LLMs lean on them heavily to surface real-time info (because on their own, they can't).
 
-Stop optimizing for 'AI.' Optimize for search engines (so retrieval-based AI can cite you) + earn third-party coverage (so the model already knows you before the prompt is typed).]
+Stop optimizing for 'AI.' Optimize for search engines (so retrieval-based AI can cite you) + earn third-party coverage (so the model already knows you before the prompt is typed).
 **Date**: March 2026
-**URL**: [https://www.linkedin.com/posts/britneymuller_llms-favor-content-that-does-x-is-not-a-activity-7432050426860044288-vNPb?utm_source=share&utm_medium=member_desktop&rcm=ACoAABs1-dcB_6fm3G6Dvs4vvpo9Y1cYzvFC7aY]
+**URL**: https://www.linkedin.com/posts/britneymuller_llms-favor-content-that-does-x-is-not-a-activity-7432050426860044288-vNPb?utm_source=share&utm_medium=member_desktop&rcm=ACoAABs1-dcB_6fm3G6Dvs4vvpo9Y1cYzvFC7aY

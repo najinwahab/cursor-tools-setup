@@ -1,7 +1,7 @@
 # Lily Ray — LinkedIn Posts
 
 ## Post 1
-[Last year, I asked Perplexity about the latest SEO/AI search updates. It confidently told me about the September 2025 "Perspectives" Core Update.
+Last year, I asked Perplexity about the latest SEO/AI search updates. It confidently told me about the September 2025 "Perspectives" Core Update.
 
 The problem? That update never happened. It doesn't exist. It was fabricated by AI-generated content on agency blogs, cited by other AI-generated content, and eventually treated as fact by multiple LLMs.
 
@@ -13,14 +13,14 @@ I spoke with journalists at the BBC and the New York Times about this problem an
 
 The results are scary, and the implications for the vast majority of AI users are not good.
 
-I wrote the full breakdown on my latest Substack. Link in comments.]
+I wrote the full breakdown on my latest Substack. Link in comments.
 **Date**: April 2026
-**URL**: [https://www.linkedin.com/posts/lily-ray-44755615_last-year-i-asked-perplexity-about-the-latest-activity-7449931419956490240-IIfc?utm_source=share&utm_medium=member_desktop&rcm=ACoAABs1-dcB_6fm3G6Dvs4vvpo9Y1cYzvFC7aY]
+**URL**: https://www.linkedin.com/posts/lily-ray-44755615_last-year-i-asked-perplexity-about-the-latest-activity-7449931419956490240-IIfc?utm_source=share&utm_medium=member_desktop&rcm=ACoAABs1-dcB_6fm3G6Dvs4vvpo9Y1cYzvFC7aY
 
 ---
 
 ## Post 2
-[Earlier this week, the NYT published an analysis finding that Google’s AI Overviews get answers wrong somewhere between 9 and 15% of the time. 
+Earlier this week, the NYT published an analysis finding that Google’s AI Overviews get answers wrong somewhere between 9 and 15% of the time. 
 
 In the article, Google’s mentioned that the BBC research about self-promoting listicles used “unrealistic searches people wouldn’t actually do.” 
 
@@ -30,15 +30,15 @@ And at Google’s scale, a 9% error rate works out to roughly *252 million wrong
 
 I wrote up my full response, including what I believe Google should actually do differently (a girl can dream, lol). 
 
-Check it out - link in comments:]
+Check it out - link in comments:
 **Date**: April 2026
-**URL**: [https://www.linkedin.com/posts/lily-ray-44755615_earlier-this-week-the-nyt-published-an-analysis-activity-7448440761383165952-SvxR?utm_source=share&utm_medium=member_desktop&rcm=ACoAABs1-dcB_6fm3G6Dvs4vvpo9Y1cYzvFC7aY]
+**URL**: https://www.linkedin.com/posts/lily-ray-44755615_earlier-this-week-the-nyt-published-an-analysis-activity-7448440761383165952-SvxR?utm_source=share&utm_medium=member_desktop&rcm=ACoAABs1-dcB_6fm3G6Dvs4vvpo9Y1cYzvFC7aY
 
 ---
 
 ## Post 3
-[Friendly reminder to be very careful taking technical SEO advice from LLMs; they will confidently make statements about how sites operate that simply aren’t true in many cases, because most LLMs can’t render JavaScript.
+Friendly reminder to be very careful taking technical SEO advice from LLMs; they will confidently make statements about how sites operate that simply aren’t true in many cases, because most LLMs can’t render JavaScript.
 
-This includes Claude. 🫠🫠]
+This includes Claude. 🫠🫠
 **Date**: April 2026
-**URL**: [https://www.linkedin.com/posts/lily-ray-44755615_friendly-reminder-to-be-very-careful-taking-activity-7445845021175545856-ke7e?utm_source=share&utm_medium=member_desktop&rcm=ACoAABs1-dcB_6fm3G6Dvs4vvpo9Y1cYzvFC7aY]
+**URL**: https://www.linkedin.com/posts/lily-ray-44755615_friendly-reminder-to-be-very-careful-taking-activity-7445845021175545856-ke7e?utm_source=share&utm_medium=member_desktop&rcm=ACoAABs1-dcB_6fm3G6Dvs4vvpo9Y1cYzvFC7aY

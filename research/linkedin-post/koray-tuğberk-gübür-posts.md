@@ -1,7 +1,7 @@
 # Koray Tuğberk Gübür — LinkedIn Posts
 
 ## Post 1
-[Google has started rolling out quick filtering options for Branded and Non-Branded queries in Google Search Console.
+Google has started rolling out quick filtering options for Branded and Non-Branded queries in Google Search Console.
 
 This matters because query classification has always been far more complex than the old SEO reflex of labeling everything as only “transactional” or “informational.”
 
@@ -35,14 +35,14 @@ And since domain terms, site names, and brand phrases do not always perfectly ov
 
 Because of that, the new Branded / Non-Branded filter in GSC can become a valuable hint for understanding Google’s perspective more clearly.
 
-To learn more: https://lnkd.in/dp8mGy8E]
+To learn more: https://lnkd.in/dp8mGy8E
 **Date**: March 2026
-**URL**: [https://www.linkedin.com/posts/koray-tugberk-gubur_google-has-started-rolling-out-quick-filtering-activity-7438364867897483264-Q9XX?utm_source=share&utm_medium=member_desktop&rcm=ACoAABs1-dcB_6fm3G6Dvs4vvpo9Y1cYzvFC7aY]
+**URL**: https://www.linkedin.com/posts/koray-tugberk-gubur_google-has-started-rolling-out-quick-filtering-activity-7438364867897483264-Q9XX?utm_source=share&utm_medium=member_desktop&rcm=ACoAABs1-dcB_6fm3G6Dvs4vvpo9Y1cYzvFC7aY
 
 ---
 
 ## Post 2
-[A single-page website. (EMD)
+A single-page website. (EMD)
 Zero backlinks.
 Only homepage content.
 Around $15,000 per month.
@@ -58,14 +58,14 @@ One page can still win, if it covers the right triples, attributes, and engageme
 I will be showing one of these real examples next week at Baltic SEO Conference while discussing visual semantics and algorithmic authorship.
 
 Learn more:
-https://lnkd.in/dp8mGy8E]
+https://lnkd.in/dp8mGy8E
 **Date**: March 2026
-**URL**: [https://www.linkedin.com/posts/koray-tugberk-gubur_a-single-page-website-emd-zero-backlinks-activity-7437999034289659904-WLqI?utm_source=share&utm_medium=member_desktop&rcm=ACoAABs1-dcB_6fm3G6Dvs4vvpo9Y1cYzvFC7aY]
+**URL**: https://www.linkedin.com/posts/koray-tugberk-gubur_a-single-page-website-emd-zero-backlinks-activity-7437999034289659904-WLqI?utm_source=share&utm_medium=member_desktop&rcm=ACoAABs1-dcB_6fm3G6Dvs4vvpo9Y1cYzvFC7aY
 
 ---
 
 ## Post 3
-[A Programmatic SEO project increased its daily clicks by 100% in just three months with basic technical and semantic SEO improvements.
+A Programmatic SEO project increased its daily clicks by 100% in just three months with basic technical and semantic SEO improvements.
 
 By reducing the Cost of Retrieval and increasing the ranking signal strength of each document, search engines began to react positively to the site.
 
@@ -75,6 +75,6 @@ As a result, daily clicks grew from 27,000 to 42,000.
 
 This is the power of programmatic SEO. A small improvement to a single document becomes massive when multiplied across thousands of pages. A tiny optimization, applied at scale, can create millions of additional opportunities for visibility and traffic.
 
-To learn more: https://lnkd.in/dp8mGy8E]
+To learn more: https://lnkd.in/dp8mGy8E
 **Date**: March 2026
-**URL**: [https://www.linkedin.com/posts/koray-tugberk-gubur_a-programmatic-seo-project-increased-its-activity-7436462253308133376-8Pjd?utm_source=share&utm_medium=member_desktop&rcm=ACoAABs1-dcB_6fm3G6Dvs4vvpo9Y1cYzvFC7aY]
+**URL**: https://www.linkedin.com/posts/koray-tugberk-gubur_a-programmatic-seo-project-increased-its-activity-7436462253308133376-8Pjd?utm_source=share&utm_medium=member_desktop&rcm=ACoAABs1-dcB_6fm3G6Dvs4vvpo9Y1cYzvFC7aY
