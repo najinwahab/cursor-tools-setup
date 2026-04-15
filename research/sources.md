@@ -108,7 +108,7 @@ not just bloggers or commentators.
 ## 10. Brian Dean
 - **Role**: Founder, Backlinko (acquired by Semrush)
 - **LinkedIn**: https://www.linkedin.com/in/brianedean
-- **YouTube**: https://www.youtube.com/@Backlinko
+- **YouTube**: http://www.youtube.com/@BrianDean
 - **Why chosen**: Built the gold standard for SEO content guides. His Backlinko
   YouTube channel is one of the most-watched SEO channels globally with
   practical AI content production walkthroughs.
