@@ -93,7 +93,7 @@ not just bloggers or commentators.
 
 ---
 
-## 9. Mike King
+## 9. Michael King
 - **Role**: Founder & CEO, iPullRank
 - **LinkedIn**: https://www.linkedin.com/in/michaelkingphilly
 - **Why chosen**: Two-time Search Marketer of the Year, named in USA Today's
