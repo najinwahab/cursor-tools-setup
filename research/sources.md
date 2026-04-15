@@ -52,7 +52,7 @@ not just bloggers or commentators.
 ## 5. Koray Tuğberk GÜBÜR
 - **Role**: CEO, Holistic SEO & Digital
 - **LinkedIn**: https://www.linkedin.com/in/koray-tugberk-gubur
--**YouTube**: http://www.youtube.com/@TopicalAuthority
+- **YouTube**: http://www.youtube.com/@TopicalAuthority
 - **Why chosen**: Founded the Topical Authority methodology now widely adopted
   in AI content workflows. Has trained 8,000+ SEO professionals globally.
 - **Content collected**: LinkedIn posts
