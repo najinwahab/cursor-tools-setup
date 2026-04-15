@@ -12,6 +12,7 @@ The Fan-Out Effect: What Happens Between a Query and a Citation - From a researc
 Read more in link in comments 👇
 
 **Date**: April 2026
+
 **URL**: https://www.linkedin.com/posts/aleyda_the-fan-out-effect-what-happens-between-activity-7449820273513680896-Se54?utm_source=share&utm_medium=member_desktop&rcm=ACoAABs1-dcB_6fm3G6Dvs4vvpo9Y1cYzvFC7aY
 
 ---
@@ -25,6 +26,7 @@ Transmedia Storytelling in the Age of AI Search: Building Worlds For and With Ma
 * Much more! Take a look, link in comments 👇
 
 **Date**: April 2026
+
 **URL**: https://www.linkedin.com/posts/aleyda_transmedia-storytelling-in-the-age-of-ai-activity-7448818681876328448-ZOzG?utm_source=share&utm_medium=member_desktop&rcm=ACoAABs1-dcB_6fm3G6Dvs4vvpo9Y1cYzvFC7aY
 
 ---
@@ -47,4 +49,5 @@ Transmedia Storytelling in the Age of AI Search: Building Worlds For and With Ma
 Read: https://lnkd.in/e-MZeYNF
 
 **Date**: April 2026
+
 **URL**: https://www.linkedin.com/posts/aleyda_seo-in-2026-higher-standards-ai-influence-activity-7447220940360511488-oKW0?utm_source=share&utm_medium=member_desktop&rcm=ACoAABs1-dcB_6fm3G6Dvs4vvpo9Y1cYzvFC7aY
