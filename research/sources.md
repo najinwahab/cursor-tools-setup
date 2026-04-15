@@ -34,7 +34,7 @@ not just bloggers or commentators.
 - **YouTube**: https://www.youtube.com/@AleydaSolis
 - **Why chosen**: 109,000+ LinkedIn followers. Runs the SEOFOMO newsletter and
   "Crawling Mondays" YouTube series. One of the most active voices on AI search.
-- **Content collected**: LinkedIn posts, YouTube Videos 
+- **Content collected**: LinkedIn posts, YouTube videos 
 - **Date collected**: April 2026
 
 ---
@@ -78,7 +78,7 @@ not just bloggers or commentators.
 - **Why chosen**: Coined the term "Answer Engine Optimization" (AEO) in 2017 —
   years before it became mainstream. Specialises in how AI systems understand
   and represent brands in generated content.
-- **Content collected**: LinkedIn posts, YouTube Videos
+- **Content collected**: LinkedIn posts, YouTube videos
 - **Date collected**: April 2026
 
 ---
@@ -111,7 +111,7 @@ not just bloggers or commentators.
 - **Why chosen**: Built the gold standard for SEO content guides. His Backlinko
   YouTube channel is one of the most-watched SEO channels globally with
   practical AI content production walkthroughs.
-- **Content collected**: LinkedIn posts, YouTube Video
+- **Content collected**: LinkedIn posts, YouTube videos
 - **Date collected**: April 2026
 
 ---
