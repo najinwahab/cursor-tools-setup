@@ -1,7 +1,9 @@
 # Brian Dean — Brian Dean: How I'd Build a Business in 2026 (Zero SEO Dependency)
 
 **Channel**: Backlinko (featuring Brian Dean interview)
+
 **URL**: https://www.perplexity.ai/search/i-need-your-help-to-apply-for-6DBGMF0pQFipjtutV2CmWA?sm=d
+
 **Date**: Jun 13, 2025
 
 ## Transcript
