@@ -2,7 +2,7 @@
 
 **Channel**: Backlinko (featuring Brian Dean interview)
 
-**URL**: https://www.perplexity.ai/search/i-need-your-help-to-apply-for-6DBGMF0pQFipjtutV2CmWA?sm=d
+**URL**: https://www.youtube.com/watch?v=9i8PQph-oF0
 
 **Date**: Jun 13, 2025
 
