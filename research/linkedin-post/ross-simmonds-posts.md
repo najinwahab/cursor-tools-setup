@@ -10,7 +10,9 @@ Meanwhile:
 Stop posting demos.
 Start publishing problem-solving content where buyers already ask questions.
 Consistency wins citations.
+
 **Date**: April 2026
+
 **URL**: https://www.linkedin.com/posts/rosssimmonds_visibility-in-llms-how-distribution-opens-activity-7448852393817063424-ctrF?utm_source=share&utm_medium=member_desktop&rcm=ACoAABs1-dcB_6fm3G6Dvs4vvpo9Y1cYzvFC7aY
 
 ---
@@ -23,7 +25,9 @@ The second best time is now.
 If you spent the last decade creating useful content, earning reviews, showing up on Reddit, publishing on YouTube, and getting mentioned offsite… you’re getting cited today.
 
 If not, start stacking distribution now. Every month you wait, the gap compounds.
+
 **Date**: April 2026
+
 **URL**: https://www.linkedin.com/posts/rosssimmonds_the-best-time-to-build-ai-visibility-was-activity-7448369216451227650-XrN7?utm_source=share&utm_medium=member_desktop&rcm=ACoAABs1-dcB_6fm3G6Dvs4vvpo9Y1cYzvFC7aY
 
 ---
@@ -45,7 +49,9 @@ We discovered 15 content types across 11 verticals and analyzed them all to find
 If you run content at a B2B company and you've never audited your format mix against backlink performance... this one will change how you plan your next quarter. More here: https://lnkd.in/eACWZB3P
 
 #ContentMarketing #BacklinkAnalysis #Research #Data
+
 **Date**: April 2026
+
 **URL**: https://www.linkedin.com/posts/rosssimmonds_contentmarketing-backlinkanalysis-research-activity-7446923424918188032-MTuj?utm_source=share&utm_medium=member_desktop&rcm=ACoAABs1-dcB_6fm3G6Dvs4vvpo9Y1cYzvFC7aY
 
 ---
@@ -75,4 +81,5 @@ The rooms you choose in 2026 will shape your rankings and revenue in 2027.
 #marketing
 
 **Date**: April 2026
+
 **URL**: https://www.linkedin.com/posts/rosssimmonds_marketing-activity-7442570995154145280-kS8N?utm_source=share&utm_medium=member_desktop&rcm=ACoAABs1-dcB_6fm3G6Dvs4vvpo9Y1cYzvFC7aY

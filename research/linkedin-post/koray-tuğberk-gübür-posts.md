@@ -36,7 +36,9 @@ And since domain terms, site names, and brand phrases do not always perfectly ov
 Because of that, the new Branded / Non-Branded filter in GSC can become a valuable hint for understanding Google’s perspective more clearly.
 
 To learn more: https://lnkd.in/dp8mGy8E
+
 **Date**: March 2026
+
 **URL**: https://www.linkedin.com/posts/koray-tugberk-gubur_google-has-started-rolling-out-quick-filtering-activity-7438364867897483264-Q9XX?utm_source=share&utm_medium=member_desktop&rcm=ACoAABs1-dcB_6fm3G6Dvs4vvpo9Y1cYzvFC7aY
 
 ---
@@ -59,7 +61,9 @@ I will be showing one of these real examples next week at Baltic SEO Conference 
 
 Learn more:
 https://lnkd.in/dp8mGy8E
+
 **Date**: March 2026
+
 **URL**: https://www.linkedin.com/posts/koray-tugberk-gubur_a-single-page-website-emd-zero-backlinks-activity-7437999034289659904-WLqI?utm_source=share&utm_medium=member_desktop&rcm=ACoAABs1-dcB_6fm3G6Dvs4vvpo9Y1cYzvFC7aY
 
 ---
@@ -76,5 +80,7 @@ As a result, daily clicks grew from 27,000 to 42,000.
 This is the power of programmatic SEO. A small improvement to a single document becomes massive when multiplied across thousands of pages. A tiny optimization, applied at scale, can create millions of additional opportunities for visibility and traffic.
 
 To learn more: https://lnkd.in/dp8mGy8E
+
 **Date**: March 2026
+
 **URL**: https://www.linkedin.com/posts/koray-tugberk-gubur_a-programmatic-seo-project-increased-its-activity-7436462253308133376-8Pjd?utm_source=share&utm_medium=member_desktop&rcm=ACoAABs1-dcB_6fm3G6Dvs4vvpo9Y1cYzvFC7aY

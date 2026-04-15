@@ -13,7 +13,9 @@ I sat down and thought about what Danny said about bite-sized content the other 
 I go into a lot of detail on all this in the post below. Have at it. Tell me how wrong you think I am. 
 
 https://lnkd.in/eMFAQPd2
+
 **Date**: February 2026
+
 **URL**: https://www.linkedin.com/posts/michaelkingphilly_moving-from-a-google-shaped-web-to-an-agent-shaped-activity-7417585335389294592-L5fg?utm_source=share&utm_medium=member_desktop&rcm=ACoAABs1-dcB_6fm3G6Dvs4vvpo9Y1cYzvFC7aY
 
 ---
@@ -42,7 +44,9 @@ This argument is reflective of an idealistic form of SEO that very few people ar
 Finally, the data indicates that optimizing the same way for retrieval is not enough. ZipTie.dev's data from May showed being in the top 10 gave you a 25% chance of being a source for AI surfaces. New data from Profound indicates a 19% overlap between Google Search and ChatGPT visibility. Just this week Josh Blyskal shared data reinforcing that it's less about position and more about relevance. 
 
 So, if you're happy with a 20% hit rate, then sure, it's just SEO. While we're here, tell me more about how sand tastes too.
+
 **Date**: Dec 2025
+
 **URL**: https://www.linkedin.com/posts/michaelkingphilly_i-get-the-whole-its-just-seo-makes-yall-activity-7394717693586845696-M8aU?utm_source=share&utm_medium=member_desktop&rcm=ACoAABs1-dcB_6fm3G6Dvs4vvpo9Y1cYzvFC7aY
 
 ---
@@ -62,5 +66,7 @@ Here's how it would work:
 4. isolate the topical cross-section in the rankings.
 
 That would get you a list of passages you compete against ranked by semantic similarity, the keywords they rank for ranked by how many citations rank for those keywords, and then you could experiment with Gemini to reverse engineer the reasoning steps by having it simulate why it chose what it chose.
+
 **Date**: June 2025
+
 **URL**: https://www.linkedin.com/posts/michaelkingphilly_ive-been-thinking-about-how-valuable-an-activity-7333539956411322370-JJW3?utm_source=share&utm_medium=member_desktop&rcm=ACoAABs1-dcB_6fm3G6Dvs4vvpo9Y1cYzvFC7aY

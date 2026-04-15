@@ -12,13 +12,17 @@ AI has become a more thorough researcher, a more compliant adherent to brand and
 This is a painful topic of conversation, but one I think is completely necessary. The path forward will only be found if we are honest about where AI can, and should, be used.
 
 https://lnkd.in/eqDgFuPt
+
 **Date**: March 2026
+
 **URL**: https://www.linkedin.com/posts/thinkingslow_ai-content-wasnt-good-enough-now-it-is-activity-7439350229327302656-3JNC?utm_source=share&utm_medium=member_desktop&rcm=ACoAABs1-dcB_6fm3G6Dvs4vvpo9Y1cYzvFC7aY
 
 ## Post 2
-[broke: using AI to scale SEO content creation
-woke: using AI to automate content maintenance so you can focus on scaling research, experiments, editorial content, etc]
+broke: using AI to scale SEO content creation
+woke: using AI to automate content maintenance so you can focus on scaling research, experiments, editorial content, etc
+
 **Date**: March 2026
+
 **URL**: https://www.linkedin.com/posts/thinkingslow_broke-using-ai-to-scale-seo-content-creation-activity-7434663762307149825-QddI?utm_source=share&utm_medium=member_desktop&rcm=ACoAABs1-dcB_6fm3G6Dvs4vvpo9Y1cYzvFC7aY
 
 ## Post 3 
@@ -53,5 +57,7 @@ everything you need to know about Google's AI Overviews (and how they impact you
 - The top 50 domains mentioned in AI Overviews account for 28.9% of all AI Overview citation links.
 
 * i'll share the sources in a comment!
+
 **Date**: February 2026
+
 **URL**: https://www.linkedin.com/posts/thinkingslow_everything-you-need-to-know-about-googles-activity-7417869750011142145-ggLk?utm_source=share&utm_medium=member_desktop&rcm=ACoAABs1-dcB_6fm3G6Dvs4vvpo9Y1cYzvFC7aY

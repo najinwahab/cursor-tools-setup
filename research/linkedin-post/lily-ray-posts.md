@@ -14,7 +14,9 @@ I spoke with journalists at the BBC and the New York Times about this problem an
 The results are scary, and the implications for the vast majority of AI users are not good.
 
 I wrote the full breakdown on my latest Substack. Link in comments.
+
 **Date**: April 2026
+
 **URL**: https://www.linkedin.com/posts/lily-ray-44755615_last-year-i-asked-perplexity-about-the-latest-activity-7449931419956490240-IIfc?utm_source=share&utm_medium=member_desktop&rcm=ACoAABs1-dcB_6fm3G6Dvs4vvpo9Y1cYzvFC7aY
 
 ---
@@ -31,7 +33,9 @@ And at Google’s scale, a 9% error rate works out to roughly *252 million wrong
 I wrote up my full response, including what I believe Google should actually do differently (a girl can dream, lol). 
 
 Check it out - link in comments:
+
 **Date**: April 2026
+
 **URL**: https://www.linkedin.com/posts/lily-ray-44755615_earlier-this-week-the-nyt-published-an-analysis-activity-7448440761383165952-SvxR?utm_source=share&utm_medium=member_desktop&rcm=ACoAABs1-dcB_6fm3G6Dvs4vvpo9Y1cYzvFC7aY
 
 ---
@@ -40,5 +44,7 @@ Check it out - link in comments:
 Friendly reminder to be very careful taking technical SEO advice from LLMs; they will confidently make statements about how sites operate that simply aren’t true in many cases, because most LLMs can’t render JavaScript.
 
 This includes Claude. 🫠🫠
+
 **Date**: April 2026
+
 **URL**: https://www.linkedin.com/posts/lily-ray-44755615_friendly-reminder-to-be-very-careful-taking-activity-7445845021175545856-ke7e?utm_source=share&utm_medium=member_desktop&rcm=ACoAABs1-dcB_6fm3G6Dvs4vvpo9Y1cYzvFC7aY

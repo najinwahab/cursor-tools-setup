@@ -19,7 +19,9 @@ Content alone won’t win. Being understood correctly from the start will.
 Search Engine Land Kalicube® 
 
 #AI #SEO #DigitalMarketing #ContentStrategy #Annotation #MarketingStrategy #BrandVisibility #AIAssistiveEngines
+
 **Date**: April 2026
+
 **URL**: https://www.linkedin.com/posts/jasonmbarnard_ai-seo-digitalmarketing-activity-7447584371357765632-C_rP?utm_source=share&utm_medium=member_desktop&rcm=ACoAABs1-dcB_6fm3G6Dvs4vvpo9Y1cYzvFC7aY
 
 ---
@@ -48,7 +50,9 @@ You don’t need more content. You need more proof.
 Rolling Stone Culture Council Kalicube® 
 
 #AISEO #PersonalBranding #Entrepreneurship #DigitalAuthority #Kalicube #AIMarketing
+
 **Date**: April 2026
+
 **URL**: https://www.linkedin.com/posts/jasonmbarnard_aiseo-personalbranding-entrepreneurship-activity-7447562922559569920-wre1?utm_source=share&utm_medium=member_desktop&rcm=ACoAABs1-dcB_6fm3G6Dvs4vvpo9Y1cYzvFC7aY
 
 ---
@@ -79,5 +83,7 @@ It’s about eligibility for revenue.
 Search Engine Land Kalicube® 
 
 #AI #DigitalTransformation #RevenueStrategy #ContentStrategy #AIAuthority #EntityOptimization #Crawling #FiveEntryModes #SEO
+
 **Date**: April 2026
+
 **URL**: https://www.linkedin.com/posts/jasonmbarnard_ai-digitaltransformation-revenuestrategy-activity-7445057067838623744-seF-?utm_source=share&utm_medium=member_desktop&rcm=ACoAABs1-dcB_6fm3G6Dvs4vvpo9Y1cYzvFC7aY
