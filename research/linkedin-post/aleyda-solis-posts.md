@@ -10,6 +10,7 @@ The Fan-Out Effect: What Happens Between a Query and a Citation - From a researc
 * Domain authority doesn't translate. DA and backlinks show no positive correlation with AI citation — and are slightly inversely correlated. ChatGPT evaluates content directly based on relevance and structure, not authority signals.
 
 Read more in link in comments 👇
+
 **Date**: April 2026
 **URL**: https://www.linkedin.com/posts/aleyda_the-fan-out-effect-what-happens-between-activity-7449820273513680896-Se54?utm_source=share&utm_medium=member_desktop&rcm=ACoAABs1-dcB_6fm3G6Dvs4vvpo9Y1cYzvFC7aY
 
@@ -22,6 +23,7 @@ Transmedia Storytelling in the Age of AI Search: Building Worlds For and With Ma
 * Why transmedia storytelling is the right framework
 * The consensus-information gain engine
 * Much more! Take a look, link in comments 👇
+
 **Date**: April 2026
 **URL**: https://www.linkedin.com/posts/aleyda_transmedia-storytelling-in-the-age-of-ai-activity-7448818681876328448-ZOzG?utm_source=share&utm_medium=member_desktop&rcm=ACoAABs1-dcB_6fm3G6Dvs4vvpo9Y1cYzvFC7aY
 
@@ -43,5 +45,6 @@ Transmedia Storytelling in the Age of AI Search: Building Worlds For and With Ma
 * Meta robots usage has crept up to 46.2% in 2025 from 45.5% the prior year.
 
 Read: https://lnkd.in/e-MZeYNF
+
 **Date**: April 2026
 **URL**: https://www.linkedin.com/posts/aleyda_seo-in-2026-higher-standards-ai-influence-activity-7447220940360511488-oKW0?utm_source=share&utm_medium=member_desktop&rcm=ACoAABs1-dcB_6fm3G6Dvs4vvpo9Y1cYzvFC7aY
