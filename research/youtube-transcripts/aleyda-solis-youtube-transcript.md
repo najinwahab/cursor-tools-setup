@@ -1,7 +1,9 @@
 # Aleyda Solis — AI Mode & The Query Fan-Out Technique: How Google AI Search Works | The Latest in SEO [June 2, 2025]
 
 **Channel**: Crawling Mondays by Aleyda
+
 **URL**: https://www.youtube.com/watch?v=lEtXlk0XTsI
+
 **Date**: June 2, 2025
 
 ## Transcript
