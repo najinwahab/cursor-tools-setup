@@ -7,7 +7,7 @@
 **Date**: January 25, 2026
 
 ## Transcript
-[paste here]{
+{
   "lang": "en",
   "availableLangs": [
     "en"
