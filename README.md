@@ -100,7 +100,7 @@ research/
   Access Denied error (Cloudflare Error 1010 — browser signature banned), 
   meaning the API blocked the automated request at the infrastructure level. 
   This was not resolvable through code fixes alone.
-  **Solution**: As a workaround, I used the Supadata web interface directly to manually collect 
+- **Solution**: As a workaround, I used the Supadata web interface directly to manually collect 
   all transcripts — ensuring the task was completed to the required standard 
   while being transparent about the technical obstacle encountered.
 ---
