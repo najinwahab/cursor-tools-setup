@@ -1,7 +1,9 @@
 # Jason Barnard — Why Brand SEO Beats Traditional SEO in the Age of AI - Jason Barnard Explains
 
 **Channel**: Edward Sturm (ft. Jason Barnard)
+
 **URL**: https://www.youtube.com/watch?v=Zsn2jTXNOWg
+
 **Date**: March 19, 2026
 
 ## Transcript
