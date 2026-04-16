@@ -6,7 +6,7 @@
 
 **Source**: Search Engine Land
 
-**URL**: https://searchengineland.com/author/jason-barnard
+**URL**: https://searchengineland.com/ai-resume-seo-path-c-suite-463670
 
 **Date**: October 22, 2025
 
