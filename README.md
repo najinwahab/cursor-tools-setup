@@ -58,11 +58,12 @@ foundation for building a real playbook on AI-powered SEO content production.
 ---
 
 ## Repository Structure
-- research/
-|─ linkedin-posts/ # 3 recent LinkedIn posts per expert (10 files)
-|─ youtube-transcripts/ # 1 full YouTube transcript per expert (10 files)
-|─ other/ # Supplementary articles, guides, and research (10 files)
-|─ sources.md # Master list of all sources with links and annotations
+
+- `research/`
+  - `linkedin-posts/` — 3 recent LinkedIn posts per expert (10 files)
+  - `youtube-transcripts/` — 1 full YouTube transcript per expert (10 files)
+  - `other/` — Supplementary articles, guides, and research (10 files)
+  - `sources.md` — Master list of all sources with links and annotations
 
 
 ---
@@ -110,3 +111,4 @@ Commits were made regularly throughout the research — after each expert's
 LinkedIn posts, after each YouTube transcript, and after each supplementary 
 material file — rather than in one large batch at the end. This reflects a 
 genuine working process and makes the contribution history easy to follow.
+
