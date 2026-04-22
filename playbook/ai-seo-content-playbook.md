@@ -522,6 +522,8 @@ AI systems release is specifically designed to close that gap.
 
 ## Where Experts Disagree
 
+---
+
 ### Disagreement 1: Exhaustive Content Clusters vs. Focused Shorter Articles
 
 **What Koray Tuğberk Gübür recommends:**
@@ -596,6 +598,8 @@ at best and misleading at worst.
 
 ### Disagreement 3: Community Platform Presence vs. Traditional SEO Fundamentals
 
+---
+
 **What Britney Muller recommends:**
 Britney's research found that Reddit alone accounts for **24% of Perplexity
 citations** — making community-based, user-generated platforms one of the most
@@ -638,6 +642,8 @@ your own website.
 ---
 
 ## What I Rejected and Why
+
+---
 
 ### Rejected Idea 1: Fully Automated AI Content Pipelines
 
@@ -700,6 +706,8 @@ https://searchengineland.com/ai-engine-pipeline-gates-470610)*
 
 ## My Original Ideas
 
+---
+
 ### The AI Visibility Audit Loop
 
 Every expert in this playbook discusses optimising content for AI citation — but
@@ -760,6 +768,8 @@ tracing, competitor analysis, and tracked iteration is original to this playbook
 
 ## Weaknesses of This Playbook
 
+---
+
 Every playbook has limitations. Naming them honestly is more useful than
 pretending they do not exist. Here are the genuine weaknesses I identify in
 this one:
@@ -815,6 +825,7 @@ system — and revisit it regularly against new evidence.
 
 ## Who I Would NOT Recommend Following and Why
 
+---
 
 ### Britney Muller — with specific reservations
 
