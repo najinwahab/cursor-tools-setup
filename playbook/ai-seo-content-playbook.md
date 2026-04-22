@@ -811,4 +811,53 @@ system — and revisit it regularly against new evidence.
 
 ## Who I Would NOT Recommend Following and Why
 
+
+### Britney Muller — with specific reservations
+
+I want to be precise here. Britney Muller is a genuinely knowledgeable
+researcher with a strong technical background in NLP, machine learning, and
+entity-based SEO. Several of her findings — particularly the 24% Reddit citation
+statistic and her framework for using AI as a research tool rather than a writing
+machine — are among the most practically useful insights in this entire playbook.
+I cite her positively in multiple sections and stand by those citations.
+
+My reservation is specific: her position on AI's impact on the content workforce
+is, in my view, a significant blind spot that could mislead someone who follows
+her without critical awareness.
+
+In her public statements, Britney consistently frames AI disruption as a problem
+of misunderstanding rather than a structural threat. She argues that writers
+who fear AI job displacement are focused on the wrong problem — that the real
+issue is how AI is being misused, not what it is doing to employment. While
+that framing has merit as a technical observation, it does not reflect the
+ground reality that content workers are already experiencing.
+
+The data is clear. Demand for basic writing and translation work has dropped
+between 20% and 50% as AI tools have taken over routine content tasks.
+81.6% of digital marketers believe content writers will lose jobs due to AI.
+A quarter of illustrators and over a third of translators have already lost work
+directly attributable to generative AI. 14% of workers across industries have
+already experienced job displacement from AI or automation.
+
+*(Source: Upwork — "Will AI Replace Writers?" 2026 —
+https://www.upwork.com/resources/will-ai-replace-writers)*
+
+*(Source: Society of Authors Survey, April 2024 —
+https://societyofauthors.org/2024/04/11/soa-survey-reveals-a-third-of-translators)*
+
+*(Source: SEO.ai — "AI Replacing Jobs Statistics," 2025 —
+https://seo.ai/blog/ai-replacing-jobs-statistics)*
+
+I work in content evaluation myself. The market rate for freelance content work
+has visibly declined since AI writing tools became mainstream. This is not a
+future concern — it is a present reality. A framework that tells content writers
+to redirect their concerns rather than prepare seriously for structural displacement
+is, in my honest assessment, potentially harmful advice for someone at an early
+stage of a content career.
+
+To be clear: I recommend following Britney Muller for her technical SEO and
+NLP insights. I would not recommend following her perspective on AI's
+workforce impact without strong critical awareness of what the employment
+data actually shows.
+
 ---
