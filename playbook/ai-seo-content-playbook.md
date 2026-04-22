@@ -263,9 +263,6 @@ in every piece of content you publish.
 *(Source: Lily Ray — LinkedIn Posts, April 2026 —
  https://www.linkedin.com/posts/lily-ray-44755615_last-year-i-asked-perplexity-about-the-latest-activity-7449931419956490240-IIfc?utm_source=share&utm_medium=member_desktop&rcm=ACoAABs1-dcB_6fm3G6Dvs4vvpo9Y1cYzvFC7aY)*
 
-*(Source: Lily Ray — "Navigating Google's AI Overviews and Search Quality Updates,"
-Search Engine Journal, 2024 —
-https://www.searchenginejournal.com/lily-ray-google-ai-overviews/)*
 
 **How to apply this in practice:**
 1. Add a detailed author bio to every article — include your real credentials,
@@ -300,28 +297,20 @@ as a risk worth designing against.
 
 ### Step 6: Optimize for LLM Citations (GEO/AEO)
 
-Getting your content indexed by Google and getting it cited by an AI system are two
-different problems requiring two different strategies. This distinction is at the heart of
-what is now called **GEO (Generative Engine Optimisation)** and **AEO (Answer
-Engine Optimisation)** — and understanding it changes how you approach every
-structural decision in your content.
+Here is the original passage rewritten so that every claim is directly grounded in what Mike King actually said in the article:
 
-Mike King's framework of **Relevance Engineering** explains why. Google's systems
-and AI retrieval models like RAG (Retrieval-Augmented Generation) do not read your
-article as a whole piece. They scan it passage by passage, evaluating each paragraph
-independently for relevance, credibility, and extractability. A paragraph that relies on
-the previous three paragraphs for context will fail this evaluation — not because it is
-badly written, but because it cannot stand alone. Every section of your content must
-independently signal what it is about, who it is for, and why it is trustworthy — without
-depending on surrounding context to carry its meaning.
+***
 
-*(Source: Mike King — "Relevance Engineering: The Future of SEO in the Age of AI
-Mode," iPullRank, 2025 —
-https://ipullrank.com/relevance-engineering)*
+Getting your content to rank in Google and having it extracted by AI systems are related but distinct challenges. As Mike King explains, AI Overviews, AI Mode, and ChatGPT do not simply look at what ranks for the core query a user types — they generate a series of synthetic queries in the background and pull pages that rank for those as well. This means ranking still matters, but optimising only for the primary query is no longer enough. Mike King's framework of Relevance Engineering — a convergence of artificial intelligence, information retrieval, content strategy, UX, and digital PR — explains how content must be structured in this new environment. He specifically highlights the concept of semantic chunking, where pages are "decomposed" and passages are evaluated and fed independently to the large language model. This is why granular, paragraph-level relevance is critical: *"you need to have relevance on a granular level in that you have very specific paragraphs that are highly relevant to what people are looking for"*. 
+
+For practical content optimisation, Mike's advice is direct: **"Break your content up where you have a clear idea in each paragraph. You're not rambling and saying a whole bunch of different things in the same paragraph, because it just becomes easier for a large language model to extract that information"**. This directly implies that paragraphs which mix ideas or rely on surrounding context become harder for AI systems to extract cleanly. He also emphasises **specificity and factual density** as a signal of credibility and extractability: *"Include facts... be as specific as possible as to why... the more you can include data points in what you're saying, the more you're gonna be included in these different environments"*. The core principle, in his own words, is: *"Make sure you are structuring your content where it's really easy to be understood, and then that inherently makes it easy for a computer to understand it too"*.
+
+*(Source: Mike King — "How to Show Up in AI Results with Relevance Engineering," BuzzStream Blog, September 26, 2025 —
+ https://www.buzzstream.com/blog/relevance-engineering-podcast/)*
 
 Kevin Indig's research across **815,000 queries** translates this principle into
 specific, measurable writing habits. Opening every piece of content with a direct plain
-statement — "X is Y" or "X does Z" — improved AI citation rates by **14% across all
+statement — "[X] is [Y]" or "[X] does [Z]" — improved AI citation rates by **14% across all
 industries**. No warm-up sentences, no rhetorical questions, no scene-setting
 introductions. Just an immediate, clear answer. He also found that pages covering only
 **26–50% of subtopics** outperformed pages trying to cover everything — reinforcing
@@ -336,16 +325,6 @@ https://www.linkedin.com/posts/kevinindig_the-seo-assumption-that-comprehensive-
 *(Source: Kevin Indig — LinkedIn Post, April 2026 —
 https://www.linkedin.com/posts/kevinindig_most-ai-seo-writing-advice-doesnt-survive-activity-7444356511436365825-lDZN)*
 
-Lily Ray adds a distinction that is easy to overlook: there is a meaningful difference
-between being **mentioned** by an AI system and being **recommended** by one. If
-an AI answer about your topic includes hesitation phrases like *"claims to,"*
-*"according to their website,"* or *"may be worth considering"* — that signals the
-system does not fully trust your content as a source. The goal of GEO optimisation
-is not just visibility but **confident citation** — being the source an AI picks without
-qualification or hesitation.
-
-*(Source: Lily Ray — LinkedIn Posts, 2025–2026 —
-https://www.linkedin.com/in/lily-ray-startups/)*
 
 **How to apply this in practice:**
 1. Write every heading as a complete question or direct statement — not "Tips for
@@ -397,7 +376,7 @@ the manual effort of repurposing so that creators can focus on producing quality
 content rather than manually reformatting it for every platform.
 
 *(Source: Ross Simmonds — "Create Once, Distribute Forever: The Content
-Distribution Playbook," Foundation Marketing —
+Distribution Playbook," Foundation Marketing — September 1st, 2023
 https://foundationinc.co/lab/content-distribution)*
 
 *(Source: Ross Simmonds — LinkedIn Posts, 2025–2026 —
