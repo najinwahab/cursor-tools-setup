@@ -171,8 +171,44 @@ fan-out framework, which has clearer logical support. The tension between this s
 Step 1 — where Koray argues for exhaustive topical coverage — is real, and I address
 it directly in the "Where Experts Disagree" section of this playbook.
 
-### Step 4: AI-Assisted Content Drafting
 
+### Step 4: Use AI as a Drafting Partner, Not a Content Factory
+
+- Use AI to generate first drafts, outlines, and structural skeletons — then rewrite
+  with your own words, examples, and perspective before publishing
+  *(Source: Ryan Law, "Why AI Content is Indistinguishable from Human Content,"
+  Ahrefs Blog, 2024 — https://ahrefs.com/blog/ai-content/)*
+
+- Every piece of content — AI-assisted or not — must do four things: address the
+  primary reason someone searched, build on existing knowledge, fill gaps left by
+  competing pages, and add at least one genuinely new piece of information
+  *(Source: Ryan Law, Ahrefs Blog — same source above)*
+
+- Do not use AI as your primary writing engine for new, original content — use it
+  instead for maintenance work: updating old articles, fixing broken sections,
+  reformatting existing material. Reserve human effort for original research and
+  genuine opinion
+  *(Source: Ryan Law, Ahrefs Blog — same source above)*
+
+- Use AI for data processing and analysis — feeding it large documents, summarising
+  research, identifying patterns — rather than generating prose from scratch
+  *(Source: Britney Muller, "AI/ML for SEO: Practical Applications," Brighton SEO
+  Talk, 2024 — https://britneymuller.com/brighton-seo)*
+
+- Never publish AI output that contains claims about recent events or newly emerging
+  facts — AI has a training cutoff and cannot verify new information. Always
+  fact-check time-sensitive claims manually
+  *(Source: Britney Muller — same source above)*
+
+**My assessment:** I personally use AI for writing, research, and processing — and I
+think it is a genuinely powerful writing tool, not just a research assistant. My own
+practice is to use AI for drafts and then inject my own words and ideas so the output
+does not feel mechanical. I partially disagree with Britney's position that AI should
+not be used for writing at all — I think that understates what AI can do. However, I
+agree with her structural point: AI cannot access events after its training cutoff, cannot
+verify new claims, and cannot hold a genuinely original opinion. Those are real
+limitations, not temporary ones. The honest answer is that AI is a powerful tool when
+the human using it stays actively involved — and a liability when they don't.
 ### Step 5: E-E-A-T Signal Reinforcement
 
 ### Step 6: Optimize for LLM Citations (GEO/AEO)
