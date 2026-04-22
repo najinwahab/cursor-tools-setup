@@ -143,8 +143,8 @@ on Google.
 https://www.linkedin.com/posts/kevinindig_the-seo-assumption-that-comprehensive-content-activity-7449792336324259841-7kHC)*
 
 He also found one writing rule that improved AI citation rates by **14%** across all
-industries: open every piece of content with a direct, plain statement — *"X is Y"* or
-*"X does Z"* — with no warm-up sentences, no questions, no hedging.
+industries: open every piece of content with a direct, plain statement — *"[X] is [Y]"* or
+*"[X] does [Z]"* — with no warm-up sentences, no questions, no hedging.
 
 *(Source: Kevin Indig — LinkedIn Post, April 2026 —
 https://www.linkedin.com/posts/kevinindig_most-ai-seo-writing-advice-doesnt-survive-activity-7444356511436365825-lDZN)*
