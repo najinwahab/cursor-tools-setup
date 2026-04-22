@@ -297,9 +297,6 @@ as a risk worth designing against.
 
 ### Step 6: Optimize for LLM Citations (GEO/AEO)
 
-Here is the original passage rewritten so that every claim is directly grounded in what Mike King actually said in the article:
-
-***
 
 Getting your content to rank in Google and having it extracted by AI systems are related but distinct challenges. As Mike King explains, AI Overviews, AI Mode, and ChatGPT do not simply look at what ranks for the core query a user types — they generate a series of synthetic queries in the background and pull pages that rank for those as well. This means ranking still matters, but optimising only for the primary query is no longer enough. Mike King's framework of Relevance Engineering — a convergence of artificial intelligence, information retrieval, content strategy, UX, and digital PR — explains how content must be structured in this new environment. He specifically highlights the concept of semantic chunking, where pages are "decomposed" and passages are evaluated and fed independently to the large language model. This is why granular, paragraph-level relevance is critical: *"you need to have relevance on a granular level in that you have very specific paragraphs that are highly relevant to what people are looking for"*. 
 
@@ -375,14 +372,10 @@ discovery alone. He built **Distribution.ai** to systematise this process — re
 the manual effort of repurposing so that creators can focus on producing quality
 content rather than manually reformatting it for every platform.
 
-*(Source: Ross Simmonds — "Create Once, Distribute Forever: The Content
-Distribution Playbook," Foundation Marketing — September 1st, 2023
-https://foundationinc.co/lab/content-distribution)*
+*(Source: Ross Simmonds — "Create Once, Distribute Forever" Foundation Marketing — March, 2024
+https://rosssimmonds.com/wp-content/uploads/2024/03/Create-Once-Distribute-Forever-By-Ross-Simmonds-Free-Chapter.pdf)*
 
-*(Source: Ross Simmonds — LinkedIn Posts, 2025–2026 —
-https://www.linkedin.com/in/rossgsimmonds/)*
 
-**How to apply this in practice:**
 1. After publishing any article, immediately identify three platforms where your
    target audience already spends time — start there, not everywhere at once
 2. For most independent writers and researchers, Meta platforms (Facebook,
@@ -418,72 +411,114 @@ build from.
 
 ### Step 8: Monitor, Audit, and Iterate Regularly
 
-Publishing and distributing content is not the end of the workflow — it is the
-beginning of a feedback cycle. The AI search era has introduced a new monitoring
-challenge that Kevin Indig calls **"measurement collapse"**: as AI systems answer
-more user questions directly without sending traffic to source websites, traditional
-metrics like clicks, page views, and session duration are becoming increasingly
-unreliable indicators of whether your content is actually working. A page can be
-cited in thousands of AI-generated answers and show almost no measurable traffic
-increase in Google Analytics.
+Publishing content is not the finish line — it is the beginning of a feedback cycle.
+Kevin Indig's behavioural study of 48 users found that only **23% of AI Mode tasks**
+led to an external website visit at all. The research and discovery phase now
+happens inside the AI interface before your website is ever seen. Traditional metrics
+like clicks and page views are becoming structurally unreliable: a page can be cited
+in hundreds of AI-generated answers and show almost no measurable traffic increase
+in your analytics dashboard.
 
-*(Source: Kevin Indig — Growth Memo, 2025–2026 —
-https://www.kevin-indig.com/growth-memo/)*
+*(Source: Kevin Indig — LinkedIn Post, April 2026 —
+https://www.linkedin.com/posts/kevinindig_where-do-consumers-go-when-they-finally-click-activity-7448327689691856896-4b2Q)*
 
-This does not mean measurement is impossible — it means the measurement
-framework needs to change. Monitoring content performance in the AI search era
-means actively checking whether your content is being retrieved and cited by AI
-systems, not just whether it is ranking on page one of Google.
+This does not mean measurement is impossible — it means you are now measuring
+different things. Kevin's cross-vertical study of 815,000 query and page pairs
+identified one writing fix that improves AI citation rates universally regardless of
+topic or industry: open every piece of content with a direct, declarative statement
+in the format "[X] is [Y]" or "[X] does [Z]" — no warm-up sentences, no questions, no
+hedging. This single structural change produced a **+14% lift in AI citation rates**
+across all verticals tested.
 
-Lily Ray's research across hundreds of websites through multiple Google algorithm
-updates adds a critical strategic warning to this monitoring process. The sites that
-lost visibility and never recovered were not necessarily publishing bad content —
-they were publishing content optimised to mimic quality signals without genuine
-substance behind them. Using AI to manufacture the surface appearance of expertise,
-without real knowledge or real experience underneath it, may produce short-term
-visibility gains. But each successive algorithm update is specifically designed to
-identify and penalise exactly that pattern. The sites that survived and recovered
-consistently shared one characteristic: they had built genuine authority signals over
-time rather than chasing technical shortcuts.
+*(Source: Kevin Indig — LinkedIn Post, April 2026 —
+https://www.linkedin.com/posts/kevinindig_most-ai-seo-writing-advice-doesnt-survive-activity-7444356511436365825-lDZN)*
 
-*(Source: Lily Ray — "Navigating Google's AI Overviews and Search Quality Updates,"
-Search Engine Journal, 2024 —
-https://www.searchenginejournal.com/lily-ray-google-ai-overviews/)*
+His 2026 predictions add a longer-horizon warning that directly shapes how you
+should think about monitoring: he forecasts that the internet will effectively split
+into a bot-facing web optimised for AI crawlers and a verified human-facing web
+requiring proof of identity. Winning content teams in this environment will no longer
+have separate Brand, PR, and SEO departments — they will merge into a single
+outcome-focused unit. Monitoring, in that world, is not a post-publication
+housekeeping task. It is a core strategic function.
 
-*(Source: Lily Ray — LinkedIn Posts, 2025–2026 —
-https://www.linkedin.com/in/lily-ray-startups/)*
+*(Source: Kevin Indig — "7 SEO, Marketing, and Tech Predictions for 2026,"
+Search Engine Journal, December 3, 2025 —
+https://www.searchenginejournal.com/seo-marketing-and-tech-predictions-for-2026/562373/)*
+
+Lily Ray adds the most important caution for anyone building an AI monitoring
+workflow. She ran an experiment that every content producer needs to understand:
+she published a **completely fake** Google algorithm update announcement on her
+own blog. Within 24 hours, Google AI Overviews, AI Mode, Gemini, and ChatGPT
+were all presenting it as established fact. She calls this the **"AI Slop Loop"** — one
+fabricated piece of content gets scraped, republished by AI systems, cited by other
+AI tools, and eventually becomes the accepted narrative. Do not use AI tools to
+verify what AI tools are saying about you. Manual spot-checking against real original
+sources is the only reliable audit method.
+
+*(Source: Lily Ray — LinkedIn Post, April 2026 —
+https://www.linkedin.com/posts/lily-ray-44755615_last-year-i-asked-perplexity-about-the-latest-activity-7449931419956490240-IIfc)*
+
+The scale of this problem matters. A New York Times analysis found Google AI
+Overviews are wrong **9–15% of the time**. At Google's volume, even the lower
+figure translates to roughly **252 million wrong AI answers served per day**. A
+separate finding: 56% of the time Gemini gets something right, the sources it cites
+do not actually support the claim being made. Checking not just whether your brand
+appears in AI answers, but whether the sources cited actually say what AI claims they
+say, is now a necessary audit step.
+
+*(Source: Lily Ray — LinkedIn Post, April 2026 —
+https://www.linkedin.com/posts/lily-ray-44755615_earlier-this-week-the-nyt-published-an-analysis-activity-7448440761383165952-SvxR)*
+
+Lily's year-in-review analysis of the 2025 algorithm volatility period offers the
+strategic frame that should sit underneath all monitoring activity. The brands that
+retained and grew traffic were not the ones chasing AI optimisation tactics — they
+were the ones who had already built genuine expertise signals, off-site brand
+authority, and content depth over time. Each successive Google update is designed
+to identify and penalise content that mimics the surface appearance of quality
+without substance underneath it. The monitoring question to ask every quarter is
+therefore not only "is my page ranking?" but "am I building the kind of off-site
+reputation that would still be standing after the next algorithm update?"
+
+*(Source: Lily Ray — "A Reflection on SEO, GEO & AI Search in 2025," Substack,
+January 2026 — https://substack.com/home/post/p-184264905)*
+
+*(Source: Lily Ray — "The State of AI and SEO in 2026 with Lily Ray," Affiliate
+Summit, February 12, 2026 —
+https://www.affiliatesummit.com/blogs/the-state-of-ai-and-seo-in-2026-with-lily-ray)*
 
 **How to apply this in practice:**
-1. Every month, open Google Search Console and check for pages losing clicks
-   or impressions — these are your priority update targets
-2. Every quarter, manually search your target topics in ChatGPT, Perplexity, and
-   Google AI Overview — note whether your content is cited, and if not, which
-   competitor is being cited instead
-3. When a competitor is consistently cited instead of you, analyse their content
-   structurally — what signals are they providing that yours is not?
-4. Update any article older than six months — refresh statistics, add new
-   developments, strengthen weak sections, and update the "last modified" date
-5. Track brand mentions using Google Alerts — unlinked mentions are
-   link-building opportunities waiting to be converted
-6. Review your topical authority map every six months — are new subtopics
-   emerging in your niche that you have not covered yet?
+1. Every month, manually search your target topics in ChatGPT, Perplexity, and
+   Google AI Overview — note whether your content appears, whether it is described
+   accurately, and which competitor is being cited instead of you
+2. Every quarter, check whether the sources AI cites about your brand actually say
+   what AI claims they say — 56% of the time, they do not
+3. When updating any article, strip all hedging language from the opening paragraph
+   and lead with a direct declarative statement — this is the one writing change with
+   consistent, measured impact on AI citation rates
+4. Track brand mentions across Reddit, forums, and third-party review sites in
+   addition to your own site traffic — Kevin Indig's data shows AI-referred clicks go
+   primarily to brands already present in the AI's first answer
+5. Do not use AI tools to audit your own website's technical setup — most cannot
+   render JavaScript and will give confidently wrong advice about how your pages
+   are actually functioning
 
-**My assessment:** The shift from measuring clicks to measuring AI citation
-visibility is one of the most practical changes any content producer needs to make
-right now. My view is that the most reliable monitoring method in the current
-environment is a regular AI visibility audit — manually querying your target topics
-across multiple AI platforms and tracking whether your content appears, how it is
-described, and whether the description is accurate and confident. If your content
-is not appearing, that is actionable information: it tells you exactly what to fix.
-On Lily Ray's point about genuine quality versus mimicked quality — I think the
-distinction is this: real quality means creating honest content and implementing
-smart optimisation to help AI systems find and understand it naturally. Using
-optimisation to manufacture the appearance of quality that does not exist underneath
-is a short-term strategy with a predictable end.
+*(Source: Lily Ray — LinkedIn Post, April 2026 —
+https://www.linkedin.com/posts/lily-ray-44755615_friendly-reminder-to-be-very-careful-taking-activity-7445845021175545856-ke7e)*
+
+**My assessment:** The most practical shift any content producer can make right
+now is replacing the monthly traffic report with a monthly AI visibility audit —
+manually querying your target topics across multiple AI platforms and checking
+whether your content appears, how it is described, and whether that description is
+accurate and confident. If your content is not appearing, that is actionable
+information: it tells you exactly which competitor to study and which gaps to fill. On
+Lily Ray's broader point about genuine quality versus mimicked quality — the
+distinction that matters is this: real optimisation means creating honest, substantive
+content and using smart structural choices to help AI systems find and understand it
+naturally. Using optimisation to manufacture the appearance of quality without
+substance underneath is a strategy with a predictable end. Every update Google and
+AI systems release is specifically designed to close that gap.
 
 ---
-
-## Where Experts Disagree
 
 ## Where Experts Disagree
 
@@ -532,8 +567,8 @@ is a legitimate drafting partner — useful for generating first drafts, outline
 structural skeletons that humans then refine and elevate with original insight,
 real experience, and genuine perspective.
 
-*(Source: Ryan Law — "Why Most AI Content Fails," Ahrefs Blog, 2024 —
-https://ahrefs.com/blog/ai-content/)*
+*(Source: Ryan Law — "AI Content Wasn’t Good Enough. Now It Is", March 16, 2026 —
+https://ahrefs.com/blog/ai-content-wasnt-good-enough-now-it-is/)*
 
 **What Britney Muller recommends:**
 Britney takes a structurally different position. She argues AI is fundamentally
@@ -542,8 +577,8 @@ stop using AI as a writing machine entirely and redirect it toward data analysis
 research summarisation, and pattern identification — tasks where its capabilities
 are genuinely superior to human effort.
 
-*(Source: Britney Muller — "Practical AI and ML Applications for SEO," Brighton
-SEO Talk, 2024 — https://britneymuller.com/brighton-seo)*
+*(Source: Britney Muller — "The Future of AI in Search | Whiteboard Friday Revisited With Britney Muller," Moz Bloge, September 19, 2025 — 
+https://moz.com/blog/the-future-of-ai-in-search-whiteboard-friday-revisited-with-britney-muller)*
 
 **My verdict — I take a middle position:**
 Ryan did not explicitly argue that AI is a writing tool — his point was that AI
@@ -568,19 +603,29 @@ significant sources of AI-retrieved content. Her recommendation is to actively b
 presence on Reddit and similar community platforms, because that is where AI
 systems are actually going to find and cite your content.
 
-*(Source: Britney Muller — LinkedIn Posts, 2025–2026 —
-https://www.linkedin.com/in/britneymuller/)*
+*(Source: Britney Muller — LinkedIn Posts, April, 20266 —
+https://www.linkedin.com/posts/britneymuller_ai-cheatsheet-for-marketers-2026-orange-labs-activity-7444766189719052288-2DND?utm_source=share&utm_medium=member_desktop&rcm=ACoAABs1-dcB_6fm3G6Dvs4vvpo9Y1cYzvFC7aY)*
 
 **What Lily Ray recommends:**
-Lily Ray consistently argues for traditional SEO fundamentals — genuine quality
-content, real E-E-A-T signals, and timeless trust-building practices. Her position
-is that sites built on solid fundamentals survive algorithm updates, while sites
-chasing platform-specific tactics and AI optimisation tricks are repeatedly
-disrupted when the landscape shifts.
+Here is a single paragraph synthesizing the key elements:
 
-*(Source: Lily Ray — "Navigating Google's AI Overviews and Search Quality
-Updates," Search Engine Journal, 2024 —
-https://www.searchenginejournal.com/lily-ray-google-ai-overviews/)*
+***
+
+Lily Ray argues that AEO/GEO is not a replacement for traditional SEO but an 
+evolution of it, with a solid SEO, social media, and digital PR strategy remaining 
+the most effective path to AI search visibility. She warns against "GEO grifters" who 
+repackage core SEO principles under new names, and flags risky tactics — such as mass 
+AI-generated pages, buying Reddit karma, or hiding text for LLMs — as dangerous for 
+long-term performance. Her checklist-based approach to E-E-A-T emphasizes demonstrable trust 
+signals, genuine author expertise, and user-focused content as the foundation for visibility 
+across both Google Search and AI platforms. She acknowledges real structural shifts in 
+2025 — including query fan-out mechanics, multimodal content needs, and new off-site 
+citation signals — but frames these as additions to the SEO toolkit rather than 
+replacements, concluding that the smartest strategy is one that serves both 
+traditional SEO and GEO simultaneously.
+
+*(Source: Lily Ray — "A Reflection on SEO & AI Search in 2025," Substack Journal, January 22, 2026 — 
+https://substack.com/home/post/p-184264905/)*
 
 **My verdict — I side with Britney Muller:**
 Lily Ray's fundamentals-first argument is not wrong — genuine quality is always
@@ -618,12 +663,11 @@ content that gets indexed, future AI trains on it, and quality degrades in a
 self-reinforcing cycle. Participating in that cycle as a publisher is a short-term
 visibility strategy with a predictable long-term cost.
 
-*(Source: Ryan Law — "Why Most AI Content Fails," Ahrefs Blog, 2024 —
-https://ahrefs.com/blog/ai-content/)*
+*(Source: Ryan Law — "AI Content Wasn’t Good Enough. Now It Is," Ahrefs Blog, March 16, 2026 —
+https://ahrefs.com/blog/ai-content-wasnt-good-enough-now-it-is/)*
 
-*(Source: Lily Ray — "Navigating Google's AI Overviews and Search Quality
-Updates," Search Engine Journal, 2024 —
-https://www.searchenginejournal.com/lily-ray-google-ai-overviews/)*
+*(Source: Lily Ray — "A Reflection on SEO & AI Search in 2025," Substack Journal, January 22, 2026 — 
+https://substack.com/home/post/p-184264905/)*
 
 ---
 
@@ -824,3 +868,4 @@ workforce impact without strong critical awareness of what the employment
 data actually shows.
 
 ---
+
