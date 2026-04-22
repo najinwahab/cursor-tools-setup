@@ -50,6 +50,8 @@ accurate becomes a significant editorial burden — if one fact becomes outdated
 consensus emerges, every related article in the cluster may need revision. This makes the
 approach more realistic for teams than for solo writers.
 
+---
+
 ### Step 2: Establish Entity Clarity Before Anything Else
 
 Before worrying about keywords, content volume, or backlinks, make sure that AI systems
@@ -107,6 +109,8 @@ a track record and verifiable credentials to point to. He does not substantially
 someone at the very beginning — with no existing audience, no published data, and no
 third-party coverage — should do first. For early-stage individuals or businesses, his method
 is aspirational before it becomes actionable. That is a real blind spot worth acknowledging.
+
+---
 
 ### Step 3: Plan Content Around AI Query Patterns, Not Just Keywords
 
@@ -170,6 +174,8 @@ this holds equally across all topics and industries. I am more confident in Aley
 fan-out framework, which has clearer logical support. The tension between this step and
 Step 1 — where Koray argues for exhaustive topical coverage — is real, and I address
 it directly in the "Where Experts Disagree" section of this playbook.
+
+---
 
 ### Step 4: Use AI as a Drafting Partner, Not a Content Factory
 
@@ -238,6 +244,8 @@ limitations are real and permanent, not temporary. The honest conclusion is that
 AI-assisted content is powerful when the human stays actively involved — and a
 liability when they step back entirely.
 
+---
+
 ### Step 5: Reinforce E-E-A-T Signals Throughout Your Content
 
 Google's E-E-A-T framework — Experience, Expertise, Authoritativeness, and
@@ -303,6 +311,8 @@ where training data originates. But the logical concern is valid: if AI systems 
 increasingly training on AI-generated content, a quality degradation cycle is not
 just possible but probable. It does not require direct evidence to take seriously
 as a risk worth designing against.
+
+---
 
 ### Step 6: Optimize for LLM Citations (GEO/AEO)
 
@@ -377,7 +387,69 @@ key addition for AI specifically is quantitative grounding: specific numbers and
 points in plain text carry more weight in retrieval systems than well-written prose
 alone. That is a genuine shift in how I will approach content going forward.
 
-### Step 7: Distribution and Repurposing
+### Step 7: Distribute and Repurpose Every Piece of Content
+
+Publishing a piece of content is not the finish line — it is the starting point. Ross
+Simmonds argues that most content creators have their ratio completely backwards:
+they spend 90% of their effort creating and 10% distributing, when the ratio that
+actually drives results is closer to the opposite. A well-researched article that nobody
+sees is wasted effort. The same article actively distributed across multiple platforms
+compounds in value with every new entry point it creates.
+
+His foundational principle is captured in one phrase: **"Create once, distribute
+forever."** The idea is not to spam the same content everywhere simultaneously,
+but to systematically repurpose one piece of original content into multiple formats
+suited to different platforms and audiences — a long article becomes a LinkedIn post,
+a carousel, an email newsletter segment, a short video summary, and a podcast
+talking point. Each format reaches a different audience and creates a new opportunity
+for the content to be discovered, cited, and linked to.
+
+The business case is concrete. His research found that content actively distributed
+across multiple channels generates **3x more leads** than content relying on organic
+discovery alone. He built **Distribution.ai** to systematise this process — reducing
+the manual effort of repurposing so that creators can focus on producing quality
+content rather than manually reformatting it for every platform.
+
+*(Source: Ross Simmonds — "Create Once, Distribute Forever: The Content
+Distribution Playbook," Foundation Marketing —
+https://foundationinc.co/lab/content-distribution)*
+
+*(Source: Ross Simmonds — LinkedIn Posts, 2025–2026 —
+https://www.linkedin.com/in/rossgsimmonds/)*
+
+**How to apply this in practice:**
+1. After publishing any article, immediately identify three platforms where your
+   target audience already spends time — start there, not everywhere at once
+2. For most independent writers and researchers, Meta platforms (Facebook,
+   Instagram) are the logical first distribution channel — Facebook alone has more
+   active members than the population of the third largest country in the world,
+   and the reach available even without a paid budget is significant
+3. Convert your key insight from each article into a standalone LinkedIn post —
+   one idea, plainly stated, with a link back to the full article
+4. Repurpose statistics and frameworks into simple visual carousels or infographics
+   for Instagram or Facebook — visual formats consistently outperform plain text
+   links on Meta platforms
+5. Submit your article to relevant newsletters, communities, and aggregators in your
+   niche — one placement in a well-read industry newsletter can drive more
+   targeted traffic than weeks of social posting
+6. Track which distribution channel drives the most return traffic using Google
+   Analytics or Search Console — double down on what works rather than
+   spreading effort equally across all platforms
+
+**My assessment:** From my own content experience, the biggest barrier to consistent
+distribution is not laziness — it is unawareness and the technical complexity of
+managing multiple platforms simultaneously. Most writers, myself included, default
+to the platforms we already know. Ross's framework is genuinely compelling but it
+carries one significant blind spot that I did not find him addressing anywhere in his
+published work: it assumes you already have an audience to distribute to. For
+someone starting from zero — no followers, no email list, no existing reach — the
+"distribute everywhere" approach risks spreading thin effort across platforms where
+nobody is listening yet. My honest recommendation for a beginner is to pick one
+platform where your target audience already exists, build a minimal presence there
+first, and only expand distribution once you have a small but real readership to
+build from.
+
+---
 
 ### Step 8: Monitor, Audit, and Iterate
 
