@@ -756,6 +756,57 @@ tracing, competitor analysis, and tracked iteration is original to this playbook
 
 ## Weaknesses of This Playbook
 
+Every playbook has limitations. Naming them honestly is more useful than
+pretending they do not exist. Here are the genuine weaknesses I identify in
+this one:
+
+**1. No expert who systematically balances both SEO and GEO together**
+Every expert in this research collection approaches either traditional SEO or
+AI search optimisation as their primary focus. None of them offer a fully
+integrated framework that tells you exactly how to win in both search engines
+and AI systems simultaneously, with clear guidance on where the two strategies
+overlap and where they conflict. Aleyda Solis comes closest, but even her
+work treats them as parallel tracks rather than one unified system. This is a
+real gap in the current expert landscape — and by extension, in this playbook.
+
+**2. No step-by-step content creation workflow**
+This playbook tells you how to optimise content, distribute it, and monitor its
+performance. It does not tell you how to create content from scratch. The
+practical workflow of selecting a topic, researching it, structuring a body,
+writing a first draft, and editing it to publication standard is entirely assumed.
+For an experienced content writer this may not matter. For someone newer to
+content production, this is a significant missing piece that this playbook does
+not address.
+
+**3. No original testing — everything is derived from secondary sources**
+Every recommendation in this playbook comes from expert-published content —
+LinkedIn posts, YouTube transcripts, blog articles, and conference talks. None
+of it has been personally tested or verified through direct experimentation.
+The experts themselves conducted research and case studies, but I have not
+independently replicated any of their findings. Some recommendations may
+perform differently depending on niche, audience, language, and market context
+in ways that this playbook cannot account for.
+
+**4. Limited applicability in low-digital-infrastructure markets**
+Most of the strategies in this playbook assume a baseline that is not universal:
+a functioning website, active social media presence, access to SEO tools, and
+an audience already engaged with digital content. In markets with lower internet
+penetration or where businesses do not prioritise digital presence — including
+many small and medium businesses across India and other developing economies
+— the majority of these recommendations have no practical entry point. A
+business without a website cannot implement entity clarity, topical authority
+mapping, or AI citation optimisation. This playbook was built from the
+perspective of ten experts who operate primarily in Western, English-language,
+high-digital-infrastructure markets. That geographic and economic bias is real
+and worth acknowledging.
+
+**5. Rapidly shifting landscape**
+AI search is moving faster than any playbook can track. Recommendations based
+on expert content from 2024–2026 may already be partially outdated by the time
+this is read. Google's algorithm, LLM training cycles, and retrieval mechanisms
+change continuously. Treat this playbook as a starting framework, not a fixed
+system — and revisit it regularly against new evidence.
+
 ---
 
 ## Who I Would NOT Recommend Following and Why
