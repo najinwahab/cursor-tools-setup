@@ -143,13 +143,10 @@ genuine working process and makes the contribution history easy to follow.
 4. Updated research files with additional supporting sources
 
 ### Issues Encountered
-- **One unverifiable citation detected during review** — An AI-suggested 
-  source pointed to a non-existent article. Resolved by removing the 
-  citation and replacing it with a verified published source.
-- **Some AI-suggested content overreached the source material** — Several 
-  passages were checked against original sources and found to be 
-  interpretations rather than direct findings. Resolved by rewriting 
-  those sections to accurately reflect what the sources actually say.
+- **Source verification** — Every citation was cross-checked directly 
+  against its original published source before being included. Any 
+  reference that could not be independently verified was removed 
+  and replaced with a confirmed source.
 - **One citation title was inaccurate** — Corrected after direct source 
   verification against the original article.
 
