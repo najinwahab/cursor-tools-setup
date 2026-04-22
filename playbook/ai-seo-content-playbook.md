@@ -171,8 +171,6 @@ fan-out framework, which has clearer logical support. The tension between this s
 Step 1 — where Koray argues for exhaustive topical coverage — is real, and I address
 it directly in the "Where Experts Disagree" section of this playbook.
 
-### Step 4: AI-Assisted Content Drafting
-
 ### Step 4: Use AI as a Drafting Partner, Not a Content Factory
 
 The rise of AI writing tools has created a tempting shortcut: generate hundreds of
@@ -240,7 +238,71 @@ limitations are real and permanent, not temporary. The honest conclusion is that
 AI-assisted content is powerful when the human stays actively involved — and a
 liability when they step back entirely.
 
-### Step 5: E-E-A-T Signal Reinforcement
+### Step 5: Reinforce E-E-A-T Signals Throughout Your Content
+
+Google's E-E-A-T framework — Experience, Expertise, Authoritativeness, and
+Trustworthiness — has moved from being a quality guideline to an active ranking
+factor, particularly after the 2024 Helpful Content Updates. Aleyda Solis and Lily Ray
+both document the same shift: AI search systems are now evaluating not just what
+your content says, but who is visibly behind it.
+
+Aleyda Solis frames this as a content infrastructure problem. Most websites publish
+articles without any clear signal of who wrote them, what qualifies that person to write
+them, or whether the claims made are verifiable. In the AI search era, that invisibility
+is penalised. Her checklist approach identifies specific, actionable signals that
+establish genuine expertise — author credentials, real experience markers, cited
+sources, and verifiable data points embedded throughout the content itself, not just
+on an About page.
+
+*(Source: Aleyda Solis — "The 10 Steps AI Search Content Optimization Checklist,"
+aleydasolis.com, July 25, 2025 —
+https://www.aleydasolis.com/en/ai-search/ai-search-optimization-checklist/)*
+
+Lily Ray approaches E-E-A-T from a different and more urgent angle. Through tracking
+hundreds of websites across multiple Google algorithm updates, she identified a pattern
+she calls the **"AI Slop Loop"** — AI systems generate content, that content gets
+indexed and circulates online, future AI models train on it, and the overall quality of
+information on the internet degrades in a self-reinforcing cycle. The practical
+consequence for publishers is that generic, machine-sounding content is increasingly
+indistinguishable from genuinely low-quality content in Google's evaluation systems.
+The antidote, in her view, is making human expertise visibly and unmistakably present
+in every piece of content you publish.
+
+*(Source: Lily Ray — LinkedIn Posts, 2025–2026 —
+https://www.linkedin.com/in/lily-ray-startups/)*
+
+*(Source: Lily Ray — "Navigating Google's AI Overviews and Search Quality Updates,"
+Search Engine Journal, 2024 —
+https://www.searchenginejournal.com/lily-ray-google-ai-overviews/)*
+
+**How to apply this in practice:**
+1. Add a detailed author bio to every article — include your real credentials,
+   educational background, relevant experience, and a photo. Make it specific,
+   not generic
+2. Include real-world research data and quantitative information wherever possible
+   — specific numbers, named studies, verifiable statistics signal genuine research
+   effort in a way that vague claims cannot
+3. Cite your sources inline with working links — this signals both trustworthiness
+   to readers and credibility to AI systems evaluating your content
+4. Write in natural language — avoid mechanical, formulaic phrasing that signals
+   AI generation. Read your content aloud; if it sounds like no human would
+   actually say it, rewrite it
+5. Add a "last updated" date to all content — freshness is a trust signal, especially
+   for topics that evolve quickly
+6. Get your name or brand mentioned on credible third-party sources — even one
+   or two quality external references significantly strengthen your authority signals
+
+**My assessment:** From my own understanding, E-E-A-T for a solo writer or
+researcher comes down to one core question: can a reader — or an AI system —
+look at this content and clearly identify a real, qualified human being behind it?
+Establishing credentials, maintaining a visible author presence, and grounding
+claims in real data are the most practical ways to answer that question. On Lily
+Ray's AI Slop Loop concern — I cannot confirm it from direct personal experience
+in content evaluation work, since evaluators do not always have visibility into
+where training data originates. But the logical concern is valid: if AI systems are
+increasingly training on AI-generated content, a quality degradation cycle is not
+just possible but probable. It does not require direct evidence to take seriously
+as a risk worth designing against.
 
 ### Step 6: Optimize for LLM Citations (GEO/AEO)
 
