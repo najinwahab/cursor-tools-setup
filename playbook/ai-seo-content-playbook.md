@@ -306,6 +306,77 @@ as a risk worth designing against.
 
 ### Step 6: Optimize for LLM Citations (GEO/AEO)
 
+Getting your content indexed by Google and getting it cited by an AI system are two
+different problems requiring two different strategies. This distinction is at the heart of
+what is now called **GEO (Generative Engine Optimisation)** and **AEO (Answer
+Engine Optimisation)** — and understanding it changes how you approach every
+structural decision in your content.
+
+Mike King's framework of **Relevance Engineering** explains why. Google's systems
+and AI retrieval models like RAG (Retrieval-Augmented Generation) do not read your
+article as a whole piece. They scan it passage by passage, evaluating each paragraph
+independently for relevance, credibility, and extractability. A paragraph that relies on
+the previous three paragraphs for context will fail this evaluation — not because it is
+badly written, but because it cannot stand alone. Every section of your content must
+independently signal what it is about, who it is for, and why it is trustworthy — without
+depending on surrounding context to carry its meaning.
+
+*(Source: Mike King — "Relevance Engineering: The Future of SEO in the Age of AI
+Mode," iPullRank, 2025 —
+https://ipullrank.com/relevance-engineering)*
+
+Kevin Indig's research across **815,000 queries** translates this principle into
+specific, measurable writing habits. Opening every piece of content with a direct plain
+statement — "X is Y" or "X does Z" — improved AI citation rates by **14% across all
+industries**. No warm-up sentences, no rhetorical questions, no scene-setting
+introductions. Just an immediate, clear answer. He also found that pages covering only
+**26–50% of subtopics** outperformed pages trying to cover everything — reinforcing
+the point from Step 3 that focused depth beats exhaustive breadth in AI retrieval
+contexts. The optimal length for AI citation was consistently between **500 and 2,000
+words**, and FAQ sections placed at the end of articles were among the highest-value
+citation targets across all content types.
+
+*(Source: Kevin Indig — LinkedIn Post, April 2026 —
+https://www.linkedin.com/posts/kevinindig_the-seo-assumption-that-comprehensive-content-activity-7449792336324259841-7kHC)*
+
+*(Source: Kevin Indig — LinkedIn Post, April 2026 —
+https://www.linkedin.com/posts/kevinindig_most-ai-seo-writing-advice-doesnt-survive-activity-7444356511436365825-lDZN)*
+
+Lily Ray adds a distinction that is easy to overlook: there is a meaningful difference
+between being **mentioned** by an AI system and being **recommended** by one. If
+an AI answer about your topic includes hesitation phrases like *"claims to,"*
+*"according to their website,"* or *"may be worth considering"* — that signals the
+system does not fully trust your content as a source. The goal of GEO optimisation
+is not just visibility but **confident citation** — being the source an AI picks without
+qualification or hesitation.
+
+*(Source: Lily Ray — LinkedIn Posts, 2025–2026 —
+https://www.linkedin.com/in/lily-ray-startups/)*
+
+**How to apply this in practice:**
+1. Write every heading as a complete question or direct statement — not "Tips for
+   SEO" but "How to Optimise Content for AI Citations"
+2. Open every section with a direct answer to that heading in the first sentence —
+   AI extracts opening sentences first
+3. Make every paragraph self-contained — it should make complete sense if read
+   in isolation, without the paragraphs around it
+4. Include specific numbers, statistics, and named data points in plain text — these
+   are the signals RAG systems prioritise when deciding what to extract and cite
+5. Add an FAQ section at the end of every article — write each question exactly
+   as a user would type it into an AI tool
+6. Keep most articles between 500 and 2,000 words — go longer only when the
+   topic genuinely requires it, not to appear comprehensive
+
+**My assessment:** As both a writer and a content evaluator, I instinctively write short
+and concise — I do not believe a casual topic needs 5,000 words, and neither does
+my audience. What this step clarified for me is that writing for human readers and
+writing for AI retrieval are related but not identical goals. The structural habits that
+make content easy for a human to read — clear headings, short paragraphs, direct
+answers — are largely the same ones that make content easy for AI to extract. The
+key addition for AI specifically is quantitative grounding: specific numbers and data
+points in plain text carry more weight in retrieval systems than well-written prose
+alone. That is a genuine shift in how I will approach content going forward.
+
 ### Step 7: Distribution and Repurposing
 
 ### Step 8: Monitor, Audit, and Iterate
