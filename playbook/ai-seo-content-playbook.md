@@ -634,10 +634,65 @@ your own website.
 
 ## What I Rejected and Why
 
-### Rejected Idea 1: The Skyscraper Technique as a Primary Strategy
+## What I Rejected and Why
 
-### Rejected Idea 2: Fully Automated AI Content Pipelines
+### Rejected Idea 1: Fully Automated AI Content Pipelines
 
+Several practitioners and tools in the AI-SEO space advocate for near-zero-human
+content workflows — using AI to generate, optimise, and publish content at scale
+with minimal human involvement. The appeal is obvious: lower cost, higher volume,
+faster output.
+
+I rejected this as a recommended strategy for one fundamental reason. Content
+without genuine human involvement loses what makes it worth reading and worth
+citing. Even if AI has reached a quality level indistinguishable from average human
+writing — as Ryan Law documents — average is no longer sufficient. AI systems
+choosing what to cite are increasingly filtering out content that lacks real expertise
+signals, original perspective, and verifiable human authorship. A fully automated
+pipeline can produce volume, but it cannot produce the one thing that actually drives
+long-term visibility: genuine authority.
+
+Lily Ray's documentation of the "AI Slop Loop" reinforces this. When AI generates
+content that gets indexed, future AI trains on it, and quality degrades in a
+self-reinforcing cycle. Participating in that cycle as a publisher is a short-term
+visibility strategy with a predictable long-term cost.
+
+*(Source: Ryan Law — "Why Most AI Content Fails," Ahrefs Blog, 2024 —
+https://ahrefs.com/blog/ai-content/)*
+
+*(Source: Lily Ray — "Navigating Google's AI Overviews and Search Quality
+Updates," Search Engine Journal, 2024 —
+https://www.searchenginejournal.com/lily-ray-google-ai-overviews/)*
+
+---
+
+### Rejected Idea 2: Jason Barnard's Full 10-Gate DSCRI-ARGDW Pipeline
+
+Jason Barnard's complete entity optimisation pipeline is one of the most
+systematically thorough frameworks in this entire research collection. His 10-gate
+model — covering everything from Discover and Scrape through to Corroborate,
+Recommend, and Iterate — represents a genuinely rigorous approach to making
+AI systems understand, trust, and recommend a brand.
+
+I decided not to include it as a recommended workflow in this playbook for two
+connected reasons. First, it is too complex to be actionable for someone without
+an existing team, technical resources, and dedicated time to implement each gate
+properly. Second, and more importantly, it assumes you already have an established
+brand with a verifiable track record, an existing audience, and credible third-party
+coverage to point to. Jason himself demonstrates his framework using a platform
+that reached 1 billion page views and 5 million monthly visitors. That is not a
+starting point — that is an arrival point.
+
+For someone building from scratch, attempting the full 10-gate pipeline before
+establishing basic entity clarity and content fundamentals is like trying to optimise
+a building that has not been built yet. The core insight from Jason's work — that
+AI must correctly understand who you are before it can recommend you — is
+included in Step 2 of this playbook. The full pipeline is reserved for a later stage
+when the foundational work is already in place.
+
+*(Source: Jason Barnard — "The AI Engine Pipeline: 10 Gates That Decide Whether
+You Win the Recommendation," Search Engine Land, March 3, 2026 —
+https://searchengineland.com/ai-engine-pipeline-gates-470610)*
 ---
 
 ## My Original Ideas
