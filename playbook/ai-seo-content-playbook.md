@@ -276,8 +276,8 @@ indistinguishable from genuinely low-quality content in Google's evaluation syst
 The antidote, in her view, is making human expertise visibly and unmistakably present
 in every piece of content you publish.
 
-*(Source: Lily Ray — LinkedIn Posts, 2025–2026 —
-https://www.linkedin.com/in/lily-ray-startups/)*
+*(Source: Lily Ray — LinkedIn Posts, April 2026 —
+ https://www.linkedin.com/posts/lily-ray-44755615_last-year-i-asked-perplexity-about-the-latest-activity-7449931419956490240-IIfc?utm_source=share&utm_medium=member_desktop&rcm=ACoAABs1-dcB_6fm3G6Dvs4vvpo9Y1cYzvFC7aY)*
 
 *(Source: Lily Ray — "Navigating Google's AI Overviews and Search Quality Updates,"
 Search Engine Journal, 2024 —
@@ -522,11 +522,113 @@ is a short-term strategy with a predictable end.
 
 ## Where Experts Disagree
 
-### Disagreement 1: Content Volume vs. Quality
+## Where Experts Disagree
 
-### Disagreement 2: Topical Authority vs. Brand SERP Optimization
+### Disagreement 1: Exhaustive Content Clusters vs. Focused Shorter Articles
 
-### Disagreement 3: Keyword-First vs. Entity-First Planning
+**What Koray Tuğberk Gübür recommends:**
+Koray argues for building exhaustive topical content clusters — covering every
+subtopic, angle, and related question within your niche through a connected
+Root → Seed → Node architecture. His case study showed a website growing from
+zero to 128,000 visits in 123 days through deep, comprehensive, interlinked
+content alone. In his framework, breadth and depth together are what signal
+authority to both Google and AI systems.
+
+*(Source: Koray Tuğberk Gübür — "Importance of Topical Authority for SEO,"
+Holistic SEO Digital, February 11, 2021 —
+https://www.holisticseo.digital/theoretical-seo/topical-authority/)*
+
+**What Kevin Indig recommends:**
+Kevin's research across 815,000 queries found the opposite pattern in AI citation
+behaviour. Pages covering only 26–50% of subtopics consistently outperformed
+pages trying to cover everything. The optimal length for AI citation was 500–2,000
+words — not the exhaustive mega-guides that Koray's framework produces. Trying
+to cover everything in one place actively hurts your citation chances in AI systems.
+
+*(Source: Kevin Indig — LinkedIn Post, April 2026 —
+https://www.linkedin.com/posts/kevinindig_the-seo-assumption-that-comprehensive-content-activity-7449792336324259841-7kHC)*
+
+**My verdict — I side with Kevin Indig:**
+Both positions have genuine data behind them, so neither can be dismissed outright.
+But Koray's method is significantly more time-consuming and resource-intensive —
+the effort required to build a full topical cluster properly could produce multiple
+focused, well-optimised articles in the same timeframe. For independent writers and
+small teams working without large resources, Kevin's focused approach is more
+practical, less stressful, and — based on his data — more effective for AI citation
+specifically. Koray's framework may be the right long-term goal, but Kevin's approach
+is the more realistic starting point for most content producers.
+
+---
+
+### Disagreement 2: AI as a Writing Tool vs. AI as a Research Tool
+
+**What Ryan Law recommends:**
+Ryan Law argues that AI writing has now reached a quality level effectively
+indistinguishable from average human marketing content. His position is that AI
+is a legitimate drafting partner — useful for generating first drafts, outlines, and
+structural skeletons that humans then refine and elevate with original insight,
+real experience, and genuine perspective.
+
+*(Source: Ryan Law — "Why Most AI Content Fails," Ahrefs Blog, 2024 —
+https://ahrefs.com/blog/ai-content/)*
+
+**What Britney Muller recommends:**
+Britney takes a structurally different position. She argues AI is fundamentally
+worst at generating content and best at processing it. Her recommendation is to
+stop using AI as a writing machine entirely and redirect it toward data analysis,
+research summarisation, and pattern identification — tasks where its capabilities
+are genuinely superior to human effort.
+
+*(Source: Britney Muller — "Practical AI and ML Applications for SEO," Brighton
+SEO Talk, 2024 — https://britneymuller.com/brighton-seo)*
+
+**My verdict — I take a middle position:**
+Ryan did not explicitly argue that AI is a writing tool — his point was that AI
+output now matches average human writing quality, which is as much a warning
+as a compliment. Britney's structural argument is valid: AI cannot access recent
+events, cannot verify new claims, and cannot hold a genuinely original opinion.
+These are permanent limitations. However, I think dismissing AI as a writing tool
+entirely understates what it can do. My honest position is that AI is capable of
+both research and drafting — the determining factor is how actively the human
+stays involved. AI-assisted writing with genuine human input is legitimate and
+powerful. AI writing without human involvement produces content that is average
+at best and misleading at worst.
+
+---
+
+### Disagreement 3: Community Platform Presence vs. Traditional SEO Fundamentals
+
+**What Britney Muller recommends:**
+Britney's research found that Reddit alone accounts for **24% of Perplexity
+citations** — making community-based, user-generated platforms one of the most
+significant sources of AI-retrieved content. Her recommendation is to actively build
+presence on Reddit and similar community platforms, because that is where AI
+systems are actually going to find and cite your content.
+
+*(Source: Britney Muller — LinkedIn Posts, 2025–2026 —
+https://www.linkedin.com/in/britneymuller/)*
+
+**What Lily Ray recommends:**
+Lily Ray consistently argues for traditional SEO fundamentals — genuine quality
+content, real E-E-A-T signals, and timeless trust-building practices. Her position
+is that sites built on solid fundamentals survive algorithm updates, while sites
+chasing platform-specific tactics and AI optimisation tricks are repeatedly
+disrupted when the landscape shifts.
+
+*(Source: Lily Ray — "Navigating Google's AI Overviews and Search Quality
+Updates," Search Engine Journal, 2024 —
+https://www.searchenginejournal.com/lily-ray-google-ai-overviews/)*
+
+**My verdict — I side with Britney Muller:**
+Lily Ray's fundamentals-first argument is not wrong — genuine quality is always
+the foundation. But I think her position does not fully account for the speed at
+which AI search is changing where citations actually originate. Britney's data is
+specific and ground-level: 24% of Perplexity citations come from Reddit. That is
+not a future trend — it is a current reality. Ignoring community platforms because
+they fall outside traditional SEO thinking means ignoring where AI systems are
+already looking. Adapting to that reality is not discarding fundamentals — it is
+understanding that the definition of "where your audience is" has expanded beyond
+your own website.
 
 ---
 
