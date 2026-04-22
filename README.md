@@ -112,3 +112,49 @@ LinkedIn posts, after each YouTube transcript, and after each supplementary
 material file — rather than in one large batch at the end. This reflects a 
 genuine working process and makes the contribution history easy to follow.
 
+---
+
+## Phase 3 — Playbook and SOP
+
+### Tools Used
+- **Cursor IDE** — File writing, editing, and version control
+- **Perplexity AI** — Source verification, content simplification, 
+  and citation fact-checking
+- **GitHub** — Regular commits throughout the writing process
+
+### Steps Completed
+1. Read and analysed research materials from all 10 experts using 
+   Perplexity AI for plain-English summarisation
+2. Created `playbook/ai-seo-content-playbook.md` with the following 
+   sections:
+   - **Core SOP** — 8-step workflow for AI-powered SEO content 
+     production, with citations for every recommendation
+   - **Where Experts Disagree** — 3 documented disagreements with 
+     personal verdicts
+   - **What I Rejected and Why** — 2 ideas excluded with clear reasoning
+   - **My Original Ideas** — The AI Visibility Audit Loop (original 
+     framework not found in any source)
+   - **Weaknesses of This Playbook** — 5 honest limitations including 
+     geographic and infrastructure bias
+   - **Who I Would NOT Recommend Following and Why** — Evidence-based 
+     critique with supporting data
+3. Verified all citations against real, accessible source URLs before 
+   finalising
+4. Updated research files with additional supporting sources
+
+### Issues Encountered
+- **One unverifiable citation detected during review** — An AI-suggested 
+  source pointed to a non-existent article. Resolved by removing the 
+  citation and replacing it with a verified published source.
+- **Some AI-suggested content overreached the source material** — Several 
+  passages were checked against original sources and found to be 
+  interpretations rather than direct findings. Resolved by rewriting 
+  those sections to accurately reflect what the sources actually say.
+- **One citation title was inaccurate** — Corrected after direct source 
+  verification against the original article.
+
+---
+
+## Playbook
+
+→ [View the full AI-SEO Content Production Playbook](./playbook/ai-seo-content-playbook.md)
