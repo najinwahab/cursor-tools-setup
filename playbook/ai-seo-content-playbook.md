@@ -108,7 +108,68 @@ someone at the very beginning — with no existing audience, no published data, 
 third-party coverage — should do first. For early-stage individuals or businesses, his method
 is aspirational before it becomes actionable. That is a real blind spot worth acknowledging.
 
-### Step 3: Keyword + Query Research (AI-First Framing)
+### Step 3: Plan Content Around AI Query Patterns, Not Just Keywords
+
+The old model of content planning — find a high-volume keyword, write the best article
+about it, rank #1 — is no longer sufficient. AI search systems do not retrieve content the
+way Google traditionally does.
+
+Aleyda Solis explains a technique called the **"fan-out"** — when an AI system receives
+a question, it does not look for a single matching page. It silently breaks the question into
+many smaller sub-questions and searches for all of them simultaneously, pulling answers
+from a much wider pool of sources than a traditional Google search would. Research by
+Tomci across 25,000 real users confirmed the practical consequence: even if your website
+ranks **#1 on Google**, you still have only a **25% chance** of being cited as a source in
+an AI-generated answer.
+
+*(Source: Aleyda Solis — "AI Mode & The Query Fan-Out Technique: How Google AI Search
+Works," YouTube, June 2, 2025 — https://www.youtube.com/watch?v=lEtXlk0XTsI)*
+
+This means crafting strong SEO content alone is not enough to appear in AI answers —
+they are two different visibility problems requiring different strategies.
+
+Kevin Indig adds a counterintuitive finding from his own research across **815,000 queries**:
+writing an exhaustively long "ultimate guide" actually performs **worse** in ChatGPT citations
+than a shorter, focused article. Pages covering only 26–50% of subtopics outperformed pages
+that tried to cover everything. The sweet spot for AI citation was articles between
+**500 and 2,000 words** — not the long-form mega-posts that traditionally ranked well
+on Google.
+
+*(Source: Kevin Indig — LinkedIn Post, April 2026 —
+https://www.linkedin.com/posts/kevinindig_the-seo-assumption-that-comprehensive-content-activity-7449792336324259841-7kHC)*
+
+He also found one writing rule that improved AI citation rates by **14%** across all
+industries: open every piece of content with a direct, plain statement — *"X is Y"* or
+*"X does Z"* — with no warm-up sentences, no questions, no hedging.
+
+*(Source: Kevin Indig — LinkedIn Post, April 2026 —
+https://www.linkedin.com/posts/kevinindig_most-ai-seo-writing-advice-doesnt-survive-activity-7444356511436365825-lDZN)*
+
+**How to apply this in practice:**
+1. For every content topic, write down the main question your article answers
+2. Then write 5–8 smaller sub-questions that someone asking the main question
+might also want answered — plan your article to address all of them
+3. Keep each section self-contained — it should make complete sense even if
+someone reads only that one section, without needing the rest of the article
+4. Open every article with a direct statement answering the main question immediately
+— no introductory fluff, no rhetorical questions
+5. Target 800–2,000 words for most articles rather than exhaustive guides, unless
+the topic genuinely requires more depth
+6. Use Aleyda's free AI content checklist to verify your existing content covers the
+hidden sub-questions AI systems are likely to ask
+
+*(Source: Aleyda Solis — "The 10 Steps AI Search Content Optimization Checklist,"
+aleydasolis.com, July 25, 2025 —
+https://www.aleydasolis.com/en/ai-search/ai-search-optimization-checklist/)*
+
+**My assessment:** I find Kevin's finding about shorter articles genuinely surprising, and
+I remain partially skeptical. I understand why it might be true — AI systems retrieve
+specific passages, not whole pages, so a tightly focused article is easier to extract from
+than a sprawling guide where the key answer is buried deep. But I am not fully convinced
+this holds equally across all topics and industries. I am more confident in Aleyda's
+fan-out framework, which has clearer logical support. The tension between this step and
+Step 1 — where Koray argues for exhaustive topical coverage — is real, and I address
+it directly in the "Where Experts Disagree" section of this playbook.
 
 ### Step 4: AI-Assisted Content Drafting
 
