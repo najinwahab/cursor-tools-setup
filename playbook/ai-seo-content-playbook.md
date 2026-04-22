@@ -634,8 +634,6 @@ your own website.
 
 ## What I Rejected and Why
 
-## What I Rejected and Why
-
 ### Rejected Idea 1: Fully Automated AI Content Pipelines
 
 Several practitioners and tools in the AI-SEO space advocate for near-zero-human
@@ -693,11 +691,66 @@ when the foundational work is already in place.
 *(Source: Jason Barnard — "The AI Engine Pipeline: 10 Gates That Decide Whether
 You Win the Recommendation," Search Engine Land, March 3, 2026 —
 https://searchengineland.com/ai-engine-pipeline-gates-470610)*
+
 ---
 
 ## My Original Ideas
 
-### Idea 1: The Citation Audit Loop
+### The AI Visibility Audit Loop
+
+Every expert in this playbook discusses optimising content for AI citation — but
+none of them frame it as a structured, repeating audit cycle with a clear methodology
+for tracking change over time. Most treat GEO and AEO optimisation as a one-time
+setup task rather than an ongoing feedback process. This is the gap my original idea
+addresses.
+
+The **AI Visibility Audit Loop** is a regular structured process — I recommend
+running it monthly — for measuring, analysing, and improving how AI systems
+understand and represent your brand or content. It works in five steps:
+
+**Step 1 — Query your own brand or topic**
+Search your company name, your name, or your primary topic across at least three
+major AI platforms: ChatGPT, Perplexity, and Google AI Overview. Read exactly
+what each system says. Is the description accurate? Is it confident or hesitant?
+Does it cite your content or someone else's?
+
+**Step 2 — Gather audience signal**
+Look at what real users are saying about your topic in community platforms —
+Reddit threads, Quora answers, LinkedIn comments. These are the sources AI
+systems are already pulling from heavily, as Britney Muller's research confirms.
+Note the language people use, the questions they ask, and the concerns they raise.
+
+**Step 3 — Trace the citations**
+For every AI answer about your topic — whether it mentions you or not — identify
+which sources the AI is actually citing. These are your real competitors in the AI
+search space, regardless of where they rank on Google.
+
+**Step 4 — Analyse the gap**
+Compare what AI systems say about your topic with what your content actually
+covers. Where are the gaps? What questions is AI answering from competitor
+sources that your content should be answering? What signals do those cited
+sources have that yours currently lacks?
+
+**Step 5 — Update and repeat**
+Make targeted content updates based on what you found. Add missing subtopics,
+strengthen weak sections, improve opening statements, add quantitative data
+where it is absent. Record your findings with a date so you can track whether
+your changes improved your citation visibility in the next audit cycle.
+
+**Why this could work:**
+AI systems like Perplexity use real-time retrieval — they are pulling from the
+web right now, not from a fixed training dataset. This means content improvements
+can show up in AI citations relatively quickly, unlike traditional SEO where ranking
+changes can take months. A structured audit loop operationalises this opportunity:
+instead of guessing what to fix, you have a repeating process that tells you exactly
+where your visibility gaps are and whether your interventions are working.
+
+This idea is not found in any of the ten experts I researched. The closest
+parallel is Kevin Indig's measurement framework and Lily Ray's monitoring
+recommendations — but neither frames it as a closed feedback loop with a
+repeating five-step cycle. The combination of audience signal gathering, citation
+tracing, competitor analysis, and tracked iteration is original to this playbook.
+
 
 ---
 
