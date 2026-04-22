@@ -387,6 +387,8 @@ key addition for AI specifically is quantitative grounding: specific numbers and
 points in plain text carry more weight in retrieval systems than well-written prose
 alone. That is a genuine shift in how I will approach content going forward.
 
+---
+
 ### Step 7: Distribute and Repurpose Every Piece of Content
 
 Publishing a piece of content is not the finish line — it is the starting point. Ross
@@ -451,7 +453,70 @@ build from.
 
 ---
 
-### Step 8: Monitor, Audit, and Iterate
+### Step 8: Monitor, Audit, and Iterate Regularly
+
+Publishing and distributing content is not the end of the workflow — it is the
+beginning of a feedback cycle. The AI search era has introduced a new monitoring
+challenge that Kevin Indig calls **"measurement collapse"**: as AI systems answer
+more user questions directly without sending traffic to source websites, traditional
+metrics like clicks, page views, and session duration are becoming increasingly
+unreliable indicators of whether your content is actually working. A page can be
+cited in thousands of AI-generated answers and show almost no measurable traffic
+increase in Google Analytics.
+
+*(Source: Kevin Indig — Growth Memo, 2025–2026 —
+https://www.kevin-indig.com/growth-memo/)*
+
+This does not mean measurement is impossible — it means the measurement
+framework needs to change. Monitoring content performance in the AI search era
+means actively checking whether your content is being retrieved and cited by AI
+systems, not just whether it is ranking on page one of Google.
+
+Lily Ray's research across hundreds of websites through multiple Google algorithm
+updates adds a critical strategic warning to this monitoring process. The sites that
+lost visibility and never recovered were not necessarily publishing bad content —
+they were publishing content optimised to mimic quality signals without genuine
+substance behind them. Using AI to manufacture the surface appearance of expertise,
+without real knowledge or real experience underneath it, may produce short-term
+visibility gains. But each successive algorithm update is specifically designed to
+identify and penalise exactly that pattern. The sites that survived and recovered
+consistently shared one characteristic: they had built genuine authority signals over
+time rather than chasing technical shortcuts.
+
+*(Source: Lily Ray — "Navigating Google's AI Overviews and Search Quality Updates,"
+Search Engine Journal, 2024 —
+https://www.searchenginejournal.com/lily-ray-google-ai-overviews/)*
+
+*(Source: Lily Ray — LinkedIn Posts, 2025–2026 —
+https://www.linkedin.com/in/lily-ray-startups/)*
+
+**How to apply this in practice:**
+1. Every month, open Google Search Console and check for pages losing clicks
+   or impressions — these are your priority update targets
+2. Every quarter, manually search your target topics in ChatGPT, Perplexity, and
+   Google AI Overview — note whether your content is cited, and if not, which
+   competitor is being cited instead
+3. When a competitor is consistently cited instead of you, analyse their content
+   structurally — what signals are they providing that yours is not?
+4. Update any article older than six months — refresh statistics, add new
+   developments, strengthen weak sections, and update the "last modified" date
+5. Track brand mentions using Google Alerts — unlinked mentions are
+   link-building opportunities waiting to be converted
+6. Review your topical authority map every six months — are new subtopics
+   emerging in your niche that you have not covered yet?
+
+**My assessment:** The shift from measuring clicks to measuring AI citation
+visibility is one of the most practical changes any content producer needs to make
+right now. My view is that the most reliable monitoring method in the current
+environment is a regular AI visibility audit — manually querying your target topics
+across multiple AI platforms and tracking whether your content appears, how it is
+described, and whether the description is accurate and confident. If your content
+is not appearing, that is actionable information: it tells you exactly what to fix.
+On Lily Ray's point about genuine quality versus mimicked quality — I think the
+distinction is this: real quality means creating honest content and implementing
+smart optimisation to help AI systems find and understand it naturally. Using
+optimisation to manufacture the appearance of quality that does not exist underneath
+is a short-term strategy with a predictable end.
 
 ---
 
