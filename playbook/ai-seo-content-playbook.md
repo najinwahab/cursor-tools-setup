@@ -201,24 +201,8 @@ assisted or fully human written:
 4. It must add at least one genuinely new piece of information — a data point, an
    original observation, a real example from experience
 
-*(Source: Ryan Law — "Why Most AI Content Fails," Ahrefs Blog, 2024 —
-https://ahrefs.com/blog/ai-content/)*
-
-Britney Muller approaches the same problem from a different angle. Her position is
-that AI is fundamentally **worst** at generating content and **best** at processing it.
-She argues that most people are using AI backwards — treating it as a writing machine
-when it should be used as a research and analysis engine. Feed AI a 50-page research
-report and ask it to extract key findings. Ask it to identify patterns across hundreds of
-customer reviews. Use it to summarise existing material so your human writing time is
-spent on original thinking, not background reading.
-
-She also points to a structural limitation that no amount of prompting can fix: AI cannot
-access events after its training cutoff, cannot verify newly emerging claims, and cannot
-hold a genuinely original opinion. These are not temporary weaknesses waiting for the
-next model update — they are built into how large language models work.
-
-*(Source: Britney Muller — "Practical AI and ML Applications for SEO," Brighton SEO
-Talk, 2024 — https://britneymuller.com/brighton-seo)*
+*(Source: Ryan Law — "AI Content Wasn’t Good Enough. Now It Is. March 16, 2026
+ — https://ahrefs.com/blog/ai-content-wasnt-good-enough-now-it-is/)*
 
 **How to apply this in practice:**
 1. Use AI to generate your first draft outline and structural skeleton — then rewrite
@@ -236,10 +220,10 @@ Talk, 2024 — https://britneymuller.com/brighton-seo)*
 **My assessment:** I personally use AI for writing, research, and processing in my own
 work — and I think it is a genuinely powerful drafting tool, not just a research assistant.
 My practice is to use AI for structure and first drafts, then inject my own words and
-perspective so the output does not feel mechanical. I partially disagree with Britney's
-position that AI should not be used for writing at all — I think that understates what
-modern AI can do. However, her structural point stands: AI cannot verify new claims,
-cannot access recent events, and cannot produce a genuinely original opinion. Those
+perspective so the output does not feel mechanical. I partially disagree with the 
+statement of AI should not be used for writing at all — I think that understates what
+modern AI can do. However, structural points like: AI cannot verify new claims,
+cannot access recent events, and cannot produce are genuinely original opinions. Those
 limitations are real and permanent, not temporary. The honest conclusion is that
 AI-assisted content is powerful when the human stays actively involved — and a
 liability when they step back entirely.
