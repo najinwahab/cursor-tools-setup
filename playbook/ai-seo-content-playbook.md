@@ -34,12 +34,12 @@ The results can be dramatic. In his foundational case study, a website grew from
 Digital, February 11, 2021 — https://www.holisticseo.digital/theoretical-seo/topical-authority/)*
 
 **How to apply this in practice (simplified version):**
-1. Pick your core topic and write it at the top of a blank document
-2. Below it, list every question someone might ask about that topic — aim for at least 20
-3. Group similar questions together — each group becomes a "Seed" category
-4. Each individual question within a group becomes a future article ("Node")
-5. Start writing from the most fundamental questions first — the ones everything else depends on
-6. In every article, link to at least two or three related articles in your cluster
+ 1. Pick your core topic and write it at the top of a blank document
+ 2. Below it, list every question someone might ask about that topic — aim for at least 20
+ 3. Group similar questions together — each group becomes a "Seed" category
+ 4. Each individual question within a group becomes a future article ("Node")
+ 5. Start writing from the most fundamental questions first — the ones everything else depends on
+ 6. In every article, link to at least two or three related articles in your cluster
 
 **My assessment:** I find this framework genuinely convincing — when we include broad,
 deep coverage of a subject, it signals to Google that we are not a one-time contributor but an
@@ -89,16 +89,16 @@ best one. The goal is to be provably trustworthy, not merely visible.
 https://www.linkedin.com/posts/jasonmbarnard_aiseo-personalbranding-entrepreneurship-activity-7447562922559569920-wre1)*
 
 **How to apply this in practice:**
-1. Write a clear, factual "About" page on your website — state exactly who you are,
-what you do, and who you serve, in plain language with no vague claims
-2. List real, verifiable achievements — numbers, dates, platforms, outcomes
-3. Make sure your name, expertise, and description are **consistent** across your
-website, LinkedIn, and any third-party mentions — inconsistency confuses AI annotation
-4. Check what AI tools currently say about you — search your name in ChatGPT,
-Perplexity, and Google AI Overview. Is the description accurate? If not, the annotation
-needs correction first
-5. Get your brand or name mentioned on credible third-party sources — even one or two
-quality external references significantly strengthen AI's confidence in its understanding of you
+ 1. Write a clear, factual "About" page on your website — state exactly who you are,
+    what you do, and who you serve, in plain language with no vague claims
+ 2. List real, verifiable achievements — numbers, dates, platforms, outcomes
+ 3. Make sure your name, expertise, and description are **consistent** across your
+    website, LinkedIn, and any third-party mentions — inconsistency confuses AI annotation
+ 4. Check what AI tools currently say about you — search your name in ChatGPT,
+    Perplexity, and Google AI Overview. Is the description accurate? If not, the annotation
+    needs correction first
+ 5. Get your brand or name mentioned on credible third-party sources — even one or two
+    quality external references significantly strengthen AI's confidence in its understanding of you
 
 **My assessment:** Jason's framework is the most logically foundational of all the experts I
 researched — you cannot build on a misidentified entity. However, I see a genuine limitation
@@ -146,17 +146,17 @@ industries: open every piece of content with a direct, plain statement — *"X i
 https://www.linkedin.com/posts/kevinindig_most-ai-seo-writing-advice-doesnt-survive-activity-7444356511436365825-lDZN)*
 
 **How to apply this in practice:**
-1. For every content topic, write down the main question your article answers
-2. Then write 5–8 smaller sub-questions that someone asking the main question
-might also want answered — plan your article to address all of them
-3. Keep each section self-contained — it should make complete sense even if
-someone reads only that one section, without needing the rest of the article
-4. Open every article with a direct statement answering the main question immediately
-— no introductory fluff, no rhetorical questions
-5. Target 800–2,000 words for most articles rather than exhaustive guides, unless
-the topic genuinely requires more depth
-6. Use Aleyda's free AI content checklist to verify your existing content covers the
-hidden sub-questions AI systems are likely to ask
+ 1. For every content topic, write down the main question your article answers
+ 2. Then write 5–8 smaller sub-questions that someone asking the main question
+    might also want answered — plan your article to address all of them
+ 3. Keep each section self-contained — it should make complete sense even if
+    someone reads only that one section, without needing the rest of the article
+ 4. Open every article with a direct statement answering the main question immediately
+    — no introductory fluff, no rhetorical questions
+ 5. Target 800–2,000 words for most articles rather than exhaustive guides, unless
+    the topic genuinely requires more depth
+ 6. Use Aleyda's free AI content checklist to verify your existing content covers the
+    hidden sub-questions AI systems are likely to ask
 
 *(Source: Aleyda Solis — "The 10 Steps AI Search Content Optimization Checklist,"
 aleydasolis.com, July 25, 2025 —
@@ -171,44 +171,75 @@ fan-out framework, which has clearer logical support. The tension between this s
 Step 1 — where Koray argues for exhaustive topical coverage — is real, and I address
 it directly in the "Where Experts Disagree" section of this playbook.
 
+### Step 4: AI-Assisted Content Drafting
 
 ### Step 4: Use AI as a Drafting Partner, Not a Content Factory
 
-- Use AI to generate first drafts, outlines, and structural skeletons — then rewrite
-  with your own words, examples, and perspective before publishing
-  *(Source: Ryan Law, "Why AI Content is Indistinguishable from Human Content,"
-  Ahrefs Blog, 2024 — https://ahrefs.com/blog/ai-content/)*
+The rise of AI writing tools has created a tempting shortcut: generate hundreds of
+articles at scale, publish them automatically, and let volume do the work. Ryan Law
+argues this is precisely the wrong way to use AI for content — and the evidence from
+Google's Helpful Content Updates supports him. Mass-produced AI content without
+genuine human input is now actively filtered out of both traditional search results and
+LLM citations.
 
-- Every piece of content — AI-assisted or not — must do four things: address the
-  primary reason someone searched, build on existing knowledge, fill gaps left by
-  competing pages, and add at least one genuinely new piece of information
-  *(Source: Ryan Law, Ahrefs Blog — same source above)*
+His core argument is that AI writing has reached a quality level that is effectively
+indistinguishable from average human marketing content. That sounds like a compliment
+to AI — but it is actually a warning. Average is no longer enough. If your AI-generated
+article reads like every other AI-generated article on the same topic, it adds nothing new
+to the conversation and Google has no reason to surface it.
 
-- Do not use AI as your primary writing engine for new, original content — use it
-  instead for maintenance work: updating old articles, fixing broken sections,
-  reformatting existing material. Reserve human effort for original research and
-  genuine opinion
-  *(Source: Ryan Law, Ahrefs Blog — same source above)*
+Ryan Law identifies four conditions every piece of content must meet — whether AI
+assisted or fully human written:
 
-- Use AI for data processing and analysis — feeding it large documents, summarising
-  research, identifying patterns — rather than generating prose from scratch
-  *(Source: Britney Muller, "AI/ML for SEO: Practical Applications," Brighton SEO
-  Talk, 2024 — https://britneymuller.com/brighton-seo)*
+1. It must address the primary reason someone searched for that topic
+2. It must build on existing knowledge rather than restating what is already widely known
+3. It must fill a gap left by competing pages — something they missed or got wrong
+4. It must add at least one genuinely new piece of information — a data point, an
+   original observation, a real example from experience
 
-- Never publish AI output that contains claims about recent events or newly emerging
-  facts — AI has a training cutoff and cannot verify new information. Always
-  fact-check time-sensitive claims manually
-  *(Source: Britney Muller — same source above)*
+*(Source: Ryan Law — "Why Most AI Content Fails," Ahrefs Blog, 2024 —
+https://ahrefs.com/blog/ai-content/)*
 
-**My assessment:** I personally use AI for writing, research, and processing — and I
-think it is a genuinely powerful writing tool, not just a research assistant. My own
-practice is to use AI for drafts and then inject my own words and ideas so the output
-does not feel mechanical. I partially disagree with Britney's position that AI should
-not be used for writing at all — I think that understates what AI can do. However, I
-agree with her structural point: AI cannot access events after its training cutoff, cannot
-verify new claims, and cannot hold a genuinely original opinion. Those are real
-limitations, not temporary ones. The honest answer is that AI is a powerful tool when
-the human using it stays actively involved — and a liability when they don't.
+Britney Muller approaches the same problem from a different angle. Her position is
+that AI is fundamentally **worst** at generating content and **best** at processing it.
+She argues that most people are using AI backwards — treating it as a writing machine
+when it should be used as a research and analysis engine. Feed AI a 50-page research
+report and ask it to extract key findings. Ask it to identify patterns across hundreds of
+customer reviews. Use it to summarise existing material so your human writing time is
+spent on original thinking, not background reading.
+
+She also points to a structural limitation that no amount of prompting can fix: AI cannot
+access events after its training cutoff, cannot verify newly emerging claims, and cannot
+hold a genuinely original opinion. These are not temporary weaknesses waiting for the
+next model update — they are built into how large language models work.
+
+*(Source: Britney Muller — "Practical AI and ML Applications for SEO," Brighton SEO
+Talk, 2024 — https://britneymuller.com/brighton-seo)*
+
+**How to apply this in practice:**
+1. Use AI to generate your first draft outline and structural skeleton — then rewrite
+   every section in your own words before publishing
+2. Use AI for content maintenance work: updating outdated statistics, fixing broken
+   sections, reformatting existing articles — this frees your human effort for original work
+3. Before publishing any AI-assisted article, ask yourself: what does this page say that
+   no other page says? If the answer is nothing, rewrite until there is one genuinely
+   original element
+4. Use AI to process research — summarise sources, extract key findings, identify gaps
+   — rather than to generate prose from scratch
+5. Always manually fact-check any time-sensitive or recently emerging claims — never
+   trust AI output for events that may have occurred after its training cutoff
+
+**My assessment:** I personally use AI for writing, research, and processing in my own
+work — and I think it is a genuinely powerful drafting tool, not just a research assistant.
+My practice is to use AI for structure and first drafts, then inject my own words and
+perspective so the output does not feel mechanical. I partially disagree with Britney's
+position that AI should not be used for writing at all — I think that understates what
+modern AI can do. However, her structural point stands: AI cannot verify new claims,
+cannot access recent events, and cannot produce a genuinely original opinion. Those
+limitations are real and permanent, not temporary. The honest conclusion is that
+AI-assisted content is powerful when the human stays actively involved — and a
+liability when they step back entirely.
+
 ### Step 5: E-E-A-T Signal Reinforcement
 
 ### Step 6: Optimize for LLM Citations (GEO/AEO)
