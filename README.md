@@ -141,6 +141,10 @@ genuine working process and makes the contribution history easy to follow.
 3. Verified all citations against real, accessible source URLs before 
    finalising
 4. Updated research files with additional supporting sources
+5. Added Ross Simmonds' book chapter "Create Once, Distribute Forever" 
+   (2024) to the `/research/other/` folder as a primary source for 
+   Step 7 of the SOP — replacing a secondary blog reference with a 
+   direct source from the author himself.
 
 ### Issues Encountered
 - **Source verification** — Every citation was cross-checked directly 
