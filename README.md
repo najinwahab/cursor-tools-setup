@@ -142,9 +142,9 @@ genuine working process and makes the contribution history easy to follow.
    finalising
 4. Updated research files with additional supporting sources
 5. Added Ross Simmonds' book chapter "Create Once, Distribute Forever" 
-   (2024) to the `/research/other/` folder as a primary source for 
-   Step 7 of the SOP — replacing a secondary blog reference with a 
-   direct source from the author himself.
+   (2024) to the `/research/other/` folder as a source — 
+   identified during Phase 3 as highly relevant to the content 
+   distribution strategy covered in this playbook.
 
 ### Issues Encountered
 - **Source verification** — Every citation was cross-checked directly 
